@@ -112,7 +112,10 @@
 |----------|----------|
 | 1-13,1-20   |Kibana    |
 | 1-30   | KQL    |
-| 1-45   | Key Logs for Investigations    |
+| 1-45   | Key Logs for Investigations
+
+
+    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -269,7 +272,8 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUzNjI3NzMsLTM3NjM0NDc4MiwzNz
-k0NTgyOTIsMTExOTMyOTQ2NCwxNDk1NTg1MzgzLC0xOTIyODE1
-MDAxLDE4NjQxMDQ1NzgsLTkzMjMxOTE3M119
+eyJoaXN0b3J5IjpbODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNz
+YzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NTU4NTM4
+MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkxNzNdfQ
+==
 -->
