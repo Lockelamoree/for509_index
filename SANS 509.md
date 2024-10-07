@@ -110,7 +110,7 @@
 
 | Column 1 | Column 2 |
 |----------|----------|
-| 1-13    |Kibana    |
+| 1-13,1-20   |Kibana    |
 | Row 2    | Row 2    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
@@ -269,7 +269,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjQ1MjYyLDExMTkzMjk0NjQsMTQ5NT
+eyJoaXN0b3J5IjpbMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NT
 U4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkx
 NzNdfQ==
 -->
