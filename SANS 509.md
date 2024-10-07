@@ -111,7 +111,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-13,1-20   |Kibana    |
-| Row 2    | Row 2    |
+| 1-30   | KQL    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -121,7 +121,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-13, 1-17   | Logstash    |
-| Row 2    | Row 2    |
+| 1-30    | Lucene    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -269,7 +269,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NT
-U4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkx
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTM3NjM0NDc4MiwzNzk0NTgyOTIsMTExOT
+MyOTQ2NCwxNDk1NTg1MzgzLC0xOTIyODE1MDAxLDE4NjQxMDQ1
+NzgsLTkzMjMxOTE3M119
 -->
