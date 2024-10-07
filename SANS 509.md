@@ -112,7 +112,7 @@
 |----------|----------|
 | 1-13,1-20   |Kibana    |
 | 1-30   | KQL    |
-| Row 3    | Row 3    |
+| 1-45   | Key Logs for Investigations    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -194,7 +194,7 @@
 | 1-31   | Search Examples    |
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
-| 1-44    | Row 5    |
+| 1-44    | Shared Responsibilites Model    |
 
 ## T
 
@@ -269,7 +269,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4ODcyMzUyLC0zNzYzNDQ3ODIsMzc5ND
-U4MjkyLDExMTkzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAw
-MSwxODY0MTA0NTc4LC05MzIzMTkxNzNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDUzNjI3NzMsLTM3NjM0NDc4MiwzNz
+k0NTgyOTIsMTExOTMyOTQ2NCwxNDk1NTg1MzgzLC0xOTIyODE1
+MDAxLDE4NjQxMDQ1NzgsLTkzMjMxOTE3M119
 -->
