@@ -28,7 +28,7 @@
 | 1-41    | Containers    |
 | 1-46   | Cloud Access Options    |
 | 1-46     | CLI   |
-| Row 5    | Row 5    |
+| 1-48   | Cloud Flows (Net Flows)    |
 
 ## D
 
@@ -198,7 +198,7 @@
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
-| 1-14   |   SOF-ELK  |
+| 1-47  |   Snapshot  |
 | 1-31   | Search Examples    |
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
@@ -277,8 +277,8 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwOTY4NTE0LDgyMjI5NTcxMywtMTQ0NT
-M2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMTE5MzI5NDY0
-LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMTg2NDEwNDU3OCwtOT
-MyMzE5MTczXX0=
+eyJoaXN0b3J5IjpbLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xND
+Q1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0
+NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC
+05MzIzMTkxNzNdfQ==
 -->
