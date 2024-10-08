@@ -29,6 +29,11 @@
 | 1-46   | Cloud Access Options    |
 | 1-46     | CLI   |
 | 1-48   | Cloud Flows (Net Flows)    |
+| 1-49   | Costs   |
+| 1-41    | Containers    |
+| 1-46   | Cloud Access Options    |
+| 1-46     | CLI   |
+| 1-48   | Cloud Flows (Net Flows)    |
 
 ## D
 
@@ -36,7 +41,7 @@
 |----------|----------|
 | 1- 11   | Data Model Types(processing Logs)    |
 | 1-42    | DFIR Possibilities in Cloud    |
-| Row 3    | Row 3    |
+|1-50   | Data Transfer Costs    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -164,7 +169,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-40    | Paas    |
-| Row 2    | Row 2    |
+| 1-49   | Pricing    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -277,8 +282,8 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xND
-Q1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0
-NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC
-05MzIzMTkxNzNdfQ==
+eyJoaXN0b3J5IjpbODUzNzU4MTc1LC0xMDE2MTYxMDc0LDgyMj
+I5NTcxMywtMTQ0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5
+MiwxMTE5MzI5NDY0LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMT
+g2NDEwNDU3OCwtOTMyMzE5MTczXX0=
 -->
