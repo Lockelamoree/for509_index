@@ -5,7 +5,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-11| Azure Resouce Log Schemas    |
-| Row 2    | Row 2    |
+| 1-46    | Api    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -26,8 +26,8 @@
 |----------|----------|
 | 1-40   | Cloud Models    |
 | 1-41    | Containers    |
-| Row 3    | Row 3    |
-| Row 4    | Row 4    |
+| 1-46   | Cloud Access Options    |
+| 1-46     | CLI   |
 | Row 5    | Row 5    |
 
 ## D
@@ -198,6 +198,11 @@
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
+| 1-14   |   SOF-ELK  |
+| 1-31   | Search Examples    |
+| 1-40    | SaaS    |
+| 1-41    | Serverless    |
+| 1-44    | Shared Responsibilites Model    |
 
 ## T
 
@@ -235,7 +240,7 @@
 
 | Column 1 | Column 2 |
 |----------|----------|
-| Row 1    | Row 1    |
+| 1-46    | Web Console   |
 | Row 2    | Row 2    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
@@ -272,8 +277,8 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNz
-YzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NTU4NTM4
-MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkxNzNdfQ
-==
+eyJoaXN0b3J5IjpbNzUwOTY4NTE0LDgyMjI5NTcxMywtMTQ0NT
+M2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMTE5MzI5NDY0
+LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMTg2NDEwNDU3OCwtOT
+MyMzE5MTczXX0=
 -->
