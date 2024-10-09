@@ -10,6 +10,7 @@
 | 2-4    | Azure Tenant    |
 | 2-6   | Azure Resource Manager    |
 |2-10| Azure Resource ID|
+|2-14| Azure Access
 
 ## B
 	
@@ -198,7 +199,7 @@
 |2-4,7   | Resource Groups    |
 | 2-4    | Resource    |
 |2-11   | RBAC    |
-|2-12   | Role Assignments    |
+|2-13   | Role Assignments    |
 
 ## S
 
@@ -290,7 +291,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjQzODY3NiwxMjU3NzQwMDUyLDE3OT
+eyJoaXN0b3J5IjpbLTQ2ODIwMzY3MCwxMjU3NzQwMDUyLDE3OT
 IzMjAwMzcsMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MTA0NjYx
 LC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDczLDExNj
 Y3NzI1ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcx
