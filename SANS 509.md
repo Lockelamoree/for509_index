@@ -52,8 +52,8 @@
 |----------|----------|
 | 1-13    | Elastic Stack    |
 | 1-15   | Elastic Search    |
-| Row 3    | Row 3    |
-| Row 4    | Row 4    |
+| 1-71    | Exchange Workload Examples   |
+| 1-72    | Exchange Mailbox Actions   |
 | Row 5    | Row 5    |
 
 
@@ -282,9 +282,9 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1OTczNzIyLC0yMDg1MDY0NzMsMTE2Nj
-c3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEz
-LC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMT
-kzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0
-NTc4LC05MzIzMTkxNzNdfQ==
+eyJoaXN0b3J5IjpbLTE1MDAxNzg2OTYsLTIwODUwNjQ3MywxMT
+Y2NzcyNTgzLDIyNDUyNjg1NiwtMTAxNjE2MTA3NCw4MjIyOTU3
+MTMsLTE0NDUzNjI3NzMsLTM3NjM0NDc4MiwzNzk0NTgyOTIsMT
+ExOTMyOTQ2NCwxNDk1NTg1MzgzLC0xOTIyODE1MDAxLDE4NjQx
+MDQ1NzgsLTkzMjMxOTE3M119
 -->
