@@ -75,10 +75,10 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-116-119    | Graph API    |
-|1-119-120   | Graph API Process   |
+|1-119-120,126-   | Graph API Process   |
 | 1-121-124   | Graph API add application    |
-| 1-124    | Graph API Rsi    |
-| Row 5    | Row 5    |
+| 1-124    | Graph API Risky Permissions    |
+| 1-125   | Graph API Approval Roles   |
 
 
 ## H
@@ -285,10 +285,10 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA0MjE1OTEsLTcyNDEwNDY2MSwtMT
-Y4MTcwODE0NCwzNzgyNTAyNDIsLTIwODUwNjQ3MywxMTY2Nzcy
-NTgzLDIyNDUyNjg1NiwtMTAxNjE2MTA3NCw4MjIyOTU3MTMsLT
-E0NDUzNjI3NzMsLTM3NjM0NDc4MiwzNzk0NTgyOTIsMTExOTMy
-OTQ2NCwxNDk1NTg1MzgzLC0xOTIyODE1MDAxLDE4NjQxMDQ1Nz
-gsLTkzMjMxOTE3M119
+eyJoaXN0b3J5IjpbLTg1OTMyOTIzOSwtNzI0MTA0NjYxLC0xNj
+gxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDczLDExNjY3NzI1
+ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcxMywtMT
+Q0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMTE5MzI5
+NDY0LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMTg2NDEwNDU3OC
+wtOTMyMzE5MTczXX0=
 -->
