@@ -170,7 +170,7 @@
 |----------|----------|
 | 1-40    | Paas    |
 | 1-49   | Pricing    |
-| 1-60-   | Row 3    |
+| 1-60-   | Powershell accessing M365/UAL    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -227,7 +227,7 @@
 | 1-54-59   | Unified Audit Log M365    |
 | 1-57    | UAL Records    |
 | 1-60    | UAL Accessing    |
-| Row 4    | Row 4    |
+| 1-62   | UAL View Role    |
 | Row 5    | Row 5    |
 
 
@@ -282,9 +282,9 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjQwOTYwLDExNjY3NzI1ODMsMjI0NT
-I2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcxMywtMTQ0NTM2Mjc3
-MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMTE5MzI5NDY0LDE0OT
-U1ODUzODMsLTE5MjI4MTUwMDEsMTg2NDEwNDU3OCwtOTMyMzE5
-MTczXX0=
+eyJoaXN0b3J5IjpbLTIwODUwNjQ3MywxMTY2NzcyNTgzLDIyND
+UyNjg1NiwtMTAxNjE2MTA3NCw4MjIyOTU3MTMsLTE0NDUzNjI3
+NzMsLTM3NjM0NDc4MiwzNzk0NTgyOTIsMTExOTMyOTQ2NCwxND
+k1NTg1MzgzLC0xOTIyODE1MDAxLDE4NjQxMDQ1NzgsLTkzMjMx
+OTE3M119
 -->
