@@ -142,7 +142,7 @@
 |----------|----------|
 | 1-13, 1-17   | Logstash    |
 | 1-30    | Lucene    |
-| 2-42   | Log Analytics Workspace    |
+| 2-42-57   | Log Analytics Workspace    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -297,11 +297,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU2NjY0NjEsLTExNTU5NDUyNDAsMj
-EzNTIxNjgxMCwxOTkzNTk4Njg4LDEyNTc3NDAwNTIsMTc5MjMy
-MDAzNywxNDg0ODIyNTUsNzE4MTA2Njg2LC03MjQxMDQ2NjEsLT
-E2ODE3MDgxNDQsMzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3
-MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC
-0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkz
-Mjk0NjRdfQ==
+eyJoaXN0b3J5IjpbNjQ0NjQxODUyLC0xMDg1NjY2NDYxLC0xMT
+U1OTQ1MjQwLDIxMzUyMTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQw
+MDUyLDE3OTIzMjAwMzcsMTQ4NDgyMjU1LDcxODEwNjY4NiwtNz
+I0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2
+NDczLDExNjY3NzI1ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LD
+gyMjI5NTcxMywtMTQ0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1
+ODI5Ml19
 -->
