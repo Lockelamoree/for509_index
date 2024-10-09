@@ -15,7 +15,7 @@
 |2-22|Azure Portal Logs|
 |2-23-29|Azure Portal Sign-In Logs|
 |2-30-33| Azure Portal Audit Logs|
-|2-34| Azure Subscription/Activity Log|
+|2-34-39| Azure Subscription/Activity Log|
 
 
 ## B
@@ -142,7 +142,7 @@
 |----------|----------|
 | 1-13, 1-17   | Logstash    |
 | 1-30    | Lucene    |
-| Row 3    | Row 3    |
+| 2-42   | Log Analytics Workspace    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -297,11 +297,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIwNzQ5NzEwLC0xMTU1OTQ1MjQwLDIxMz
-UyMTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQwMDUyLDE3OTIzMjAw
-MzcsMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MTA0NjYxLC0xNj
-gxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDczLDExNjY3NzI1
-ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcxMywtMT
-Q0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMTE5MzI5
-NDY0XX0=
+eyJoaXN0b3J5IjpbLTEwODU2NjY0NjEsLTExNTU5NDUyNDAsMj
+EzNTIxNjgxMCwxOTkzNTk4Njg4LDEyNTc3NDAwNTIsMTc5MjMy
+MDAzNywxNDg0ODIyNTUsNzE4MTA2Njg2LC03MjQxMDQ2NjEsLT
+E2ODE3MDgxNDQsMzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3
+MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC
+0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkz
+Mjk0NjRdfQ==
 -->
