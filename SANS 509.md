@@ -194,8 +194,8 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-57   | Record Type    |
-|2   | Row 2    |
-| Row 3    | Row 3    |
+|2-4   | Resource Groups    |
+| 2-4    | Resource    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -214,6 +214,7 @@
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
 |1-104| Sharepoint Log|
+|2-4| Subscriptions|
 
 ## T
 
@@ -288,10 +289,10 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE5ODc1MDIsMTQ4NDgyMjU1LDcxOD
-EwNjY4NiwtNzI0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0
-MiwtMjA4NTA2NDczLDExNjY3NzI1ODMsMjI0NTI2ODU2LC0xMD
-E2MTYxMDc0LDgyMjI5NTcxMywtMTQ0NTM2Mjc3MywtMzc2MzQ0
-NzgyLDM3OTQ1ODI5MiwxMTE5MzI5NDY0LDE0OTU1ODUzODMsLT
-E5MjI4MTUwMDEsMTg2NDEwNDU3OCwtOTMyMzE5MTczXX0=
+eyJoaXN0b3J5IjpbMTc5MjMyMDAzNywxNDg0ODIyNTUsNzE4MT
+A2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUwMjQy
+LC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMjQ1MjY4NTYsLTEwMT
+YxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNzYzNDQ3
+ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NTU4NTM4MywtMT
+kyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkxNzNdfQ==
 -->
