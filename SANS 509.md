@@ -66,6 +66,7 @@
 |1-107 -109| Entra ID Logs|
 | 1-110-111| Entra ID Activity Logs|
 |1-112| Entra ID Incident Response|
+|2-6365| Event Hubs and Graph API|
 
 
 ## F
@@ -185,7 +186,7 @@
 | 1-40    | Paas    |
 | 1-49   | Pricing    |
 | 1-60-66   | Powershell accessing M365/UAL    |
-| Row 4    | Row 4    |
+|2-61   | PTIH in Storage Blobs    |
 | Row 5    | Row 5    |
 
 ## Q
@@ -299,7 +300,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODc1MjcyOCw2NDQ2NDE4NTIsLTEwOD
+eyJoaXN0b3J5IjpbMTcwNDU1MzA2NSw2NDQ2NDE4NTIsLTEwOD
 U2NjY0NjEsLTExNTU5NDUyNDAsMjEzNTIxNjgxMCwxOTkzNTk4
 Njg4LDEyNTc3NDAwNTIsMTc5MjMyMDAzNywxNDg0ODIyNTUsNz
 E4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUw
