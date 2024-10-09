@@ -166,8 +166,8 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 2-80    | Network Virtual Appliance    |
-|2-81  | Network Security Groups    |
-| Row 3    | Row 3    |
+|2-81-84  | Network Security Groups    |
+|2-85  | NSG Flow Logs    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -302,7 +302,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc2MTM0OTIsLTE0MTY3NTkzNDYsNj
+eyJoaXN0b3J5IjpbLTEwNTM4NjIxODYsLTE0MTY3NTkzNDYsNj
 Q0NjQxODUyLC0xMDg1NjY2NDYxLC0xMTU1OTQ1MjQwLDIxMzUy
 MTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQwMDUyLDE3OTIzMjAwMz
 csMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MTA0NjYxLC0xNjgx
