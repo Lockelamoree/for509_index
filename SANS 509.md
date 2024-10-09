@@ -16,6 +16,7 @@
 |2-23-29|Azure Portal Sign-In Logs|
 |2-30-33| Azure Portal Audit Logs|
 |2-34-39| Azure Subscription/Activity Log|
+| 2-60| Azure Storage Explorer|
 
 
 ## B
@@ -223,6 +224,7 @@
 | 1-44    | Shared Responsibilites Model    |
 |1-104| Sharepoint Log|
 |2-4-5| Subscriptions|
+|2-57-60| Storage Account |
 
 ## T
 
@@ -297,11 +299,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0NjQxODUyLC0xMDg1NjY2NDYxLC0xMT
-U1OTQ1MjQwLDIxMzUyMTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQw
-MDUyLDE3OTIzMjAwMzcsMTQ4NDgyMjU1LDcxODEwNjY4NiwtNz
-I0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2
-NDczLDExNjY3NzI1ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LD
-gyMjI5NTcxMywtMTQ0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1
-ODI5Ml19
+eyJoaXN0b3J5IjpbMTY0ODc1MjcyOCw2NDQ2NDE4NTIsLTEwOD
+U2NjY0NjEsLTExNTU5NDUyNDAsMjEzNTIxNjgxMCwxOTkzNTk4
+Njg4LDEyNTc3NDAwNTIsMTc5MjMyMDAzNywxNDg0ODIyNTUsNz
+E4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUw
+MjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMjQ1MjY4NTYsLT
+EwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNzYz
+NDQ3ODJdfQ==
 -->
