@@ -66,7 +66,7 @@
 |1-107 -109| Entra ID Logs|
 | 1-110-111| Entra ID Activity Logs|
 |1-112| Entra ID Incident Response|
-|2-6365| Event Hubs and Graph API|
+|2-63-65| Event Hubs and Graph API|
 
 
 ## F
@@ -84,7 +84,7 @@
 
 | Column 1 | Column 2 |
 |----------|----------|
-| 1-116-119    | Graph API    |
+| 1-116-119,2-66   | Graph API    |
 |1-119-120,126-127  | Graph API Process   |
 | 1-121-124   | Graph API add application    |
 | 1-124    | Graph API Risky Permissions    |
@@ -253,7 +253,7 @@
 
 | Column 1 | Column 2 |
 |----------|----------|
-| Row 1    | Row 1    |
+| 2-69   | Virtual Machine Types (Azure)    |
 | Row 2    | Row 2    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
@@ -300,7 +300,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDU1MzA2NSw2NDQ2NDE4NTIsLTEwOD
+eyJoaXN0b3J5IjpbLTg0ODcyOTMxNiw2NDQ2NDE4NTIsLTEwOD
 U2NjY0NjEsLTExNTU5NDUyNDAsMjEzNTIxNjgxMCwxOTkzNTk4
 Njg4LDEyNTc3NDAwNTIsMTc5MjMyMDAzNywxNDg0ODIyNTUsNz
 E4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUw
