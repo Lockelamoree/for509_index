@@ -8,7 +8,7 @@
 | 1-46    | Api    |
 | 2-4    | Azure Structure    |
 | 2-4    | Azure Tenant    |
-| Row 5    | Row 5    |
+| 2-6   | Azure Resource Manager    |
 
 ## B
 	
@@ -214,7 +214,7 @@
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
 |1-104| Sharepoint Log|
-|2-| Subscriptions|
+|2-4-5| Subscriptions|
 
 ## T
 
@@ -289,11 +289,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQzMTMxNTEsMTc5MjMyMDAzNywxND
-g0ODIyNTUsNzE4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgx
-NDQsMzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMj
-Q1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYy
-NzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMT
-Q5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIz
-MTkxNzNdfQ==
+eyJoaXN0b3J5IjpbNTIwNDcxNTgsMTc5MjMyMDAzNywxNDg0OD
+IyNTUsNzE4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQs
+Mzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMjQ1Mj
+Y4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYyNzcz
+LC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NT
+U4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkx
+NzNdfQ==
 -->
