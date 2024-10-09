@@ -9,6 +9,7 @@
 | 2-4    | Azure Structure    |
 | 2-4    | Azure Tenant    |
 | 2-6   | Azure Resource Manager    |
+|2-7| Azure Resource ID|
 
 ## B
 	
@@ -194,7 +195,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-57   | Record Type    |
-|2-4   | Resource Groups    |
+|2-4,7   | Resource Groups    |
 | 2-4    | Resource    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -289,11 +290,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwNDcxNTgsMTc5MjMyMDAzNywxNDg0OD
-IyNTUsNzE4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQs
-Mzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMjQ1Mj
-Y4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYyNzcz
-LC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NT
-U4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkx
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDE4NzMzMjMsMTc5MjMyMDAzNywxND
+g0ODIyNTUsNzE4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgx
+NDQsMzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMj
+Q1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYy
+NzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMT
+Q5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIz
+MTkxNzNdfQ==
 -->
