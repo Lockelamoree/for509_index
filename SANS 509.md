@@ -139,7 +139,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-67   | Microsoft Extractor Suite (Invictus)    |
-| Row 2    | Row 2    |
+| 1-69   | Microsoft 365 Management API|
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -282,9 +282,9 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODU2NjQ3NCwtMjA4NTA2NDczLDExNj
-Y3NzI1ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcx
-MywtMTQ0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMT
-E5MzI5NDY0LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMTg2NDEw
-NDU3OCwtOTMyMzE5MTczXX0=
+eyJoaXN0b3J5IjpbODU1OTczNzIyLC0yMDg1MDY0NzMsMTE2Nj
+c3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEz
+LC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMT
+kzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0
+NTc4LC05MzIzMTkxNzNdfQ==
 -->
