@@ -15,7 +15,7 @@
 |2-22|Azure Portal Logs|
 |2-23-29|Azure Portal Sign-In Logs|
 |2-30-33| Azure Portal Audit Logs|
-|2-34
+|2-34| Azure Subscription/Activity Log|
 
 
 ## B
@@ -297,7 +297,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyOTc5MjkwLC0xMTU1OTQ1MjQwLDIxMz
+eyJoaXN0b3J5IjpbNjIwNzQ5NzEwLC0xMTU1OTQ1MjQwLDIxMz
 UyMTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQwMDUyLDE3OTIzMjAw
 MzcsMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MTA0NjYxLC0xNj
 gxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDczLDExNjY3NzI1
