@@ -253,9 +253,9 @@
 
 | Column 1 | Column 2 |
 |----------|----------|
-| 2-69   | Virtual Machine Types (Azure)    |
-| Row 2    | Row 2    |
-| Row 3    | Row 3    |
+| 2-69 -70   | Virtual Machine Types (Azure)    |
+| 2-71   | VM Storage: Managed Disks (Azure)  |
+| 2-72    | VM Creati    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -300,11 +300,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODcyOTMxNiw2NDQ2NDE4NTIsLTEwOD
-U2NjY0NjEsLTExNTU5NDUyNDAsMjEzNTIxNjgxMCwxOTkzNTk4
-Njg4LDEyNTc3NDAwNTIsMTc5MjMyMDAzNywxNDg0ODIyNTUsNz
-E4MTA2Njg2LC03MjQxMDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUw
-MjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMjQ1MjY4NTYsLT
-EwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNzYz
-NDQ3ODJdfQ==
+eyJoaXN0b3J5IjpbOTE5ODg0ODMxLDY0NDY0MTg1MiwtMTA4NT
+Y2NjQ2MSwtMTE1NTk0NTI0MCwyMTM1MjE2ODEwLDE5OTM1OTg2
+ODgsMTI1Nzc0MDA1MiwxNzkyMzIwMDM3LDE0ODQ4MjI1NSw3MT
+gxMDY2ODYsLTcyNDEwNDY2MSwtMTY4MTcwODE0NCwzNzgyNTAy
+NDIsLTIwODUwNjQ3MywxMTY2NzcyNTgzLDIyNDUyNjg1NiwtMT
+AxNjE2MTA3NCw4MjIyOTU3MTMsLTE0NDUzNjI3NzMsLTM3NjM0
+NDc4Ml19
 -->
