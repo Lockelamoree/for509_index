@@ -54,7 +54,8 @@
 | 1-72-73    | Exchange Mailbox Actions   |
 | 1-74   | Exchange Logs, Mail Clients    |
 | 1-90-91| External Mail Forwarding|
-|1-107 -108| Entra ID|
+|1-107 -109| Entra ID Logs|
+| 1-110| Entra ID Activity Logs|
 
 
 ## F
@@ -283,10 +284,10 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NDcyMDc4LC0xNjgxNzA4MTQ0LDM3OD
-I1MDI0MiwtMjA4NTA2NDczLDExNjY3NzI1ODMsMjI0NTI2ODU2
-LC0xMDE2MTYxMDc0LDgyMjI5NTcxMywtMTQ0NTM2Mjc3MywtMz
-c2MzQ0NzgyLDM3OTQ1ODI5MiwxMTE5MzI5NDY0LDE0OTU1ODUz
-ODMsLTE5MjI4MTUwMDEsMTg2NDEwNDU3OCwtOTMyMzE5MTczXX
-0=
+eyJoaXN0b3J5IjpbLTExNTA0MDk2NjMsLTE2ODE3MDgxNDQsMz
+c4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Njc3MjU4MywyMjQ1MjY4
+NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEzLC0xNDQ1MzYyNzczLC
+0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NTU4
+NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0NTc4LC05MzIzMTkxNz
+NdfQ==
 -->
