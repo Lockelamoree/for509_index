@@ -18,7 +18,7 @@
 |2-34-39| Azure Subscription/Activity Log|
 | 2-60| Azure Storage Explorer|
 |2-78| Azure Virtual Network (VNet)|
-|2-79| Azure Network Security Gr
+|2-79| Azure Network Security Group|
 
 
 ## B
@@ -165,7 +165,7 @@
 
 | Column 1 | Column 2 |
 |----------|----------|
-| Row 1    | Row 1    |
+| 2-80    | Network Virtual Appliance    |
 | Row 2    | Row 2    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
@@ -302,11 +302,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTk3MjYzLC0xNDE2NzU5MzQ2LDY0ND
-Y0MTg1MiwtMTA4NTY2NjQ2MSwtMTE1NTk0NTI0MCwyMTM1MjE2
-ODEwLDE5OTM1OTg2ODgsMTI1Nzc0MDA1MiwxNzkyMzIwMDM3LD
-E0ODQ4MjI1NSw3MTgxMDY2ODYsLTcyNDEwNDY2MSwtMTY4MTcw
-ODE0NCwzNzgyNTAyNDIsLTIwODUwNjQ3MywxMTY2NzcyNTgzLD
-IyNDUyNjg1NiwtMTAxNjE2MTA3NCw4MjIyOTU3MTMsLTE0NDUz
-NjI3NzNdfQ==
+eyJoaXN0b3J5IjpbLTE1MDUwMzc2MDYsLTE0MTY3NTkzNDYsNj
+Q0NjQxODUyLC0xMDg1NjY2NDYxLC0xMTU1OTQ1MjQwLDIxMzUy
+MTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQwMDUyLDE3OTIzMjAwMz
+csMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MTA0NjYxLC0xNjgx
+NzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDczLDExNjY3NzI1OD
+MsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcxMywtMTQ0
+NTM2Mjc3M119
 -->
