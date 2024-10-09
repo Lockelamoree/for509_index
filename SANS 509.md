@@ -30,10 +30,8 @@
 | 1-46     | CLI   |
 | 1-48   | Cloud Flows (Net Flows)    |
 | 1-49   | Costs   |
-| 1-41    | Containers    |
-| 1-46   | Cloud Access Options    |
-| 1-46     | CLI   |
-| 1-48   | Cloud Flows (Net Flows)    |
+|1-79| ClientInfoString|
+
 
 ## D
 
@@ -141,7 +139,7 @@
 | 1-67   | Microsoft Extractor Suite (Invictus)    |
 | 1-69   | Microsoft 365 Management API|
 | 1-76-77    | MailItemsAccessed Fields for IR    |
-| 1-78    | MailAccessType: Bind vs   |
+| 1-78    | MailAccessType: Bind vs. Sync   |
 | Row 5    | Row 5    |
 
 ## N
@@ -282,7 +280,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1Nzc2ODI4LC0yMDg1MDY0NzMsMTE2Nj
+eyJoaXN0b3J5IjpbMzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Nj
 c3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEz
 LC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMT
 kzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0
