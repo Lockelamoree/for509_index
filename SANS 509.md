@@ -140,7 +140,7 @@
 |----------|----------|
 | 1-67   | Microsoft Extractor Suite (Invictus)    |
 | 1-69   | Microsoft 365 Management API|
-| Row 3    | Row 3    |
+| 1-76    | MailItemsAccessed Fields for IR    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -282,7 +282,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDgzNTI2OSwtMjA4NTA2NDczLDExNj
+eyJoaXN0b3J5IjpbMTE4NTM0MDc3NSwtMjA4NTA2NDczLDExNj
 Y3NzI1ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcx
 MywtMTQ0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5MiwxMT
 E5MzI5NDY0LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMTg2NDEw
