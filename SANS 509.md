@@ -255,8 +255,8 @@
 |----------|----------|
 | 2-69 -70   | Virtual Machine Types (Azure)    |
 | 2-71   | VM Storage: Managed Disks (Azure)  |
-| 2-72    | VM Creati    |
-| Row 4    | Row 4    |
+| 2-72 -73   | VM Creation Events    |
+| 2-74   | VM Crypto Mining    |
 | Row 5    | Row 5    |
 
 ## W
@@ -300,7 +300,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5ODg0ODMxLDY0NDY0MTg1MiwtMTA4NT
+eyJoaXN0b3J5IjpbNDg0OTExMjE0LDY0NDY0MTg1MiwtMTA4NT
 Y2NjQ2MSwtMTE1NTk0NTI0MCwyMTM1MjE2ODEwLDE5OTM1OTg2
 ODgsMTI1Nzc0MDA1MiwxNzkyMzIwMDM3LDE0ODQ4MjI1NSw3MT
 gxMDY2ODYsLTcyNDEwNDY2MSwtMTY4MTcwODE0NCwzNzgyNTAy
