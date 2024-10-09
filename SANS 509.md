@@ -6,8 +6,8 @@
 |----------|----------|
 | 1-11| Azure Resouce Log Schemas    |
 | 1-46    | Api    |
-| Row 3    | Row 3    |
-| Row 4    | Row 4    |
+| 2-4    | Azure Structure    |
+| 2-4    | Azure Tenant    |
 | Row 5    | Row 5    |
 
 ## B
@@ -147,6 +147,7 @@
 | 1-76-77    | MailItemsAccessed Fields for IR    |
 | 1-78    | MailAccessType: Bind vs. Sync   |
 | 1-87 -89   | Message Tracing/Tracking (Exchange Admin Center / Microsoft Purview Compliance Portal    |
+|2-4|Management groups|
 
 ## N
 
@@ -193,7 +194,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-57   | Record Type    |
-| Row 2    | Row 2    |
+|2   | Row 2    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -287,10 +288,10 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MT
-A0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDcz
-LDExNjY3NzI1ODMsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMj
-I5NTcxMywtMTQ0NTM2Mjc3MywtMzc2MzQ0NzgyLDM3OTQ1ODI5
-MiwxMTE5MzI5NDY0LDE0OTU1ODUzODMsLTE5MjI4MTUwMDEsMT
-g2NDEwNDU3OCwtOTMyMzE5MTczXX0=
+eyJoaXN0b3J5IjpbLTIwNDE5ODc1MDIsMTQ4NDgyMjU1LDcxOD
+EwNjY4NiwtNzI0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0
+MiwtMjA4NTA2NDczLDExNjY3NzI1ODMsMjI0NTI2ODU2LC0xMD
+E2MTYxMDc0LDgyMjI5NTcxMywtMTQ0NTM2Mjc3MywtMzc2MzQ0
+NzgyLDM3OTQ1ODI5MiwxMTE5MzI5NDY0LDE0OTU1ODUzODMsLT
+E5MjI4MTUwMDEsMTg2NDEwNDU3OCwtOTMyMzE5MTczXX0=
 -->
