@@ -170,7 +170,7 @@
 |----------|----------|
 | 1-40    | Paas    |
 | 1-49   | Pricing    |
-| 1-60-   | Powershell accessing M365/UAL    |
+| 1-60-66   | Powershell accessing M365/UAL    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -282,9 +282,9 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUwNjQ3MywxMTY2NzcyNTgzLDIyND
-UyNjg1NiwtMTAxNjE2MTA3NCw4MjIyOTU3MTMsLTE0NDUzNjI3
-NzMsLTM3NjM0NDc4MiwzNzk0NTgyOTIsMTExOTMyOTQ2NCwxND
-k1NTg1MzgzLC0xOTIyODE1MDAxLDE4NjQxMDQ1NzgsLTkzMjMx
-OTE3M119
+eyJoaXN0b3J5IjpbNDk2NTkzNjIzLC0yMDg1MDY0NzMsMTE2Nj
+c3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEz
+LC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMT
+kzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0
+NTc4LC05MzIzMTkxNzNdfQ==
 -->
