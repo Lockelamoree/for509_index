@@ -157,8 +157,8 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-57   | Operation    |
-| Row 2    | Row 2    |
-| Row 3    | Row 3    |
+| 1-80 -84   | Outlook Bind & Sync Event    |
+| 1-85   | OWA Bind Event    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -280,9 +280,9 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MjUwMjQyLC0yMDg1MDY0NzMsMTE2Nj
-c3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIyMjk1NzEz
-LC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMzc5NDU4MjkyLDExMT
-kzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgxNTAwMSwxODY0MTA0
-NTc4LC05MzIzMTkxNzNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzA2NzgzMzEsMzc4MjUwMjQyLC0yMD
+g1MDY0NzMsMTE2Njc3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEw
+NzQsODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMz
+c5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgx
+NTAwMSwxODY0MTA0NTc4LC05MzIzMTkxNzNdfQ==
 -->
