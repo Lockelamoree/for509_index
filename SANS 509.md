@@ -54,6 +54,7 @@
 | 1-72-73    | Exchange Mailbox Actions   |
 | 1-74   | Exchange Logs, Mail Clients    |
 | 1-90-91| External Mail Forwarding|
+|1-107| Entra ID
 
 
 ## F
@@ -62,7 +63,7 @@
 |----------|----------|
 | 1-95-96  | File Operations    |
 | 1-97 -100  | File Sharing    |
-| 1-101   | File Lifecycle Tracking    |
+| 1-101-103   | File Lifecycle Tracking    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -207,6 +208,7 @@
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
+|1-104| Sharepoint Log|
 
 ## T
 
@@ -281,9 +283,10 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE3MDgxNDQsMzc4MjUwMjQyLC0yMD
-g1MDY0NzMsMTE2Njc3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEw
-NzQsODIyMjk1NzEzLC0xNDQ1MzYyNzczLC0zNzYzNDQ3ODIsMz
-c5NDU4MjkyLDExMTkzMjk0NjQsMTQ5NTU4NTM4MywtMTkyMjgx
-NTAwMSwxODY0MTA0NTc4LC05MzIzMTkxNzNdfQ==
+eyJoaXN0b3J5IjpbMjEzOTYxNDY2NCwtMTY4MTcwODE0NCwzNz
+gyNTAyNDIsLTIwODUwNjQ3MywxMTY2NzcyNTgzLDIyNDUyNjg1
+NiwtMTAxNjE2MTA3NCw4MjIyOTU3MTMsLTE0NDUzNjI3NzMsLT
+M3NjM0NDc4MiwzNzk0NTgyOTIsMTExOTMyOTQ2NCwxNDk1NTg1
+MzgzLC0xOTIyODE1MDAxLDE4NjQxMDQ1NzgsLTkzMjMxOTE3M1
+19
 -->
