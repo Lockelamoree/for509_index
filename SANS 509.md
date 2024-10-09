@@ -26,7 +26,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-13    | Beats    |
-| Row 2    | Row 2    |
+| 2-93    | Blobs    |
 | Row 3    | Row 3    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
@@ -167,7 +167,7 @@
 |----------|----------|
 | 2-80    | Network Virtual Appliance    |
 |2-81-84  | Network Security Groups    |
-|2-85  | NSG Flow Logs    |
+|2-85-92 | NSG Flow Logs    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -227,7 +227,7 @@
 | 1-44    | Shared Responsibilites Model    |
 |1-104| Sharepoint Log|
 |2-4-5| Subscriptions|
-|2-57-60| Storage Account |
+|2-57-60, 2-93| Storage Account |
 
 ## T
 
@@ -302,11 +302,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM4NjIxODYsLTE0MTY3NTkzNDYsNj
-Q0NjQxODUyLC0xMDg1NjY2NDYxLC0xMTU1OTQ1MjQwLDIxMzUy
-MTY4MTAsMTk5MzU5ODY4OCwxMjU3NzQwMDUyLDE3OTIzMjAwMz
-csMTQ4NDgyMjU1LDcxODEwNjY4NiwtNzI0MTA0NjYxLC0xNjgx
-NzA4MTQ0LDM3ODI1MDI0MiwtMjA4NTA2NDczLDExNjY3NzI1OD
-MsMjI0NTI2ODU2LC0xMDE2MTYxMDc0LDgyMjI5NTcxMywtMTQ0
-NTM2Mjc3M119
+eyJoaXN0b3J5IjpbMTk4MTI3MTI4MCwtMTA1Mzg2MjE4NiwtMT
+QxNjc1OTM0Niw2NDQ2NDE4NTIsLTEwODU2NjY0NjEsLTExNTU5
+NDUyNDAsMjEzNTIxNjgxMCwxOTkzNTk4Njg4LDEyNTc3NDAwNT
+IsMTc5MjMyMDAzNywxNDg0ODIyNTUsNzE4MTA2Njg2LC03MjQx
+MDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUwMjQyLC0yMDg1MDY0Nz
+MsMTE2Njc3MjU4MywyMjQ1MjY4NTYsLTEwMTYxNjEwNzQsODIy
+Mjk1NzEzXX0=
 -->
