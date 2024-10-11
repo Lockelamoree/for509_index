@@ -19,7 +19,7 @@
 | 2-60| Azure Storage Explorer|
 |2-78| Azure Virtual Network (VNet)|
 |2-79| Azure Network Security Group|
-|2-112-115| Azure VM Run Command|
+|2-112-116| Azure VM Run Command / Powershell Artifacts|
 
 
 ## B
@@ -148,7 +148,7 @@
 | 1-13, 1-17   | Logstash    |
 | 1-30    | Lucene    |
 | 2-42-57   | Log Analytics Workspace    |
-| Row 4    | Row 4    |
+|2-117    | Linux Logs    |
 | Row 5    | Row 5    |
 
 ## M
@@ -308,7 +308,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUxNDA0NTAsNjA3Njc0MjA4LDEzOD
+eyJoaXN0b3J5IjpbLTIwODg1MDE4ODcsNjA3Njc0MjA4LDEzOD
 cwMDU0NzUsLTU5MTMxMzcwLC0xMDUzODYyMTg2LC0xNDE2NzU5
 MzQ2LDY0NDY0MTg1MiwtMTA4NTY2NjQ2MSwtMTE1NTk0NTI0MC
 wyMTM1MjE2ODEwLDE5OTM1OTg2ODgsMTI1Nzc0MDA1MiwxNzky
