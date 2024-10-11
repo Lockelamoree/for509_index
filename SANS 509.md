@@ -20,6 +20,7 @@
 |2-78| Azure Virtual Network (VNet)|
 |2-79| Azure Network Security Group|
 |2-112-116| Azure VM Run Command / Powershell Artifacts|
+|2-120| Application Logs|
 
 
 ## B
@@ -70,6 +71,7 @@
 | 1-110-111| Entra ID Activity Logs|
 |1-112| Entra ID Incident Response|
 |2-63-65| Event Hubs and Graph API|
+|2-120|Event Tracing for Windows|
 
 
 ## F
@@ -148,7 +150,7 @@
 | 1-13, 1-17   | Logstash    |
 | 1-30    | Lucene    |
 | 2-42-57   | Log Analytics Workspace    |
-|2-117    | Linux Logs    |
+|2-117 -119    | Linux Logs (WAD)    |
 | Row 5    | Row 5    |
 
 ## M
@@ -308,11 +310,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg1MDE4ODcsNjA3Njc0MjA4LDEzOD
-cwMDU0NzUsLTU5MTMxMzcwLC0xMDUzODYyMTg2LC0xNDE2NzU5
-MzQ2LDY0NDY0MTg1MiwtMTA4NTY2NjQ2MSwtMTE1NTk0NTI0MC
-wyMTM1MjE2ODEwLDE5OTM1OTg2ODgsMTI1Nzc0MDA1MiwxNzky
-MzIwMDM3LDE0ODQ4MjI1NSw3MTgxMDY2ODYsLTcyNDEwNDY2MS
-wtMTY4MTcwODE0NCwzNzgyNTAyNDIsLTIwODUwNjQ3MywxMTY2
-NzcyNTgzXX0=
+eyJoaXN0b3J5IjpbMTE2NDAxNDEzNywtMjA4ODUwMTg4Nyw2MD
+c2NzQyMDgsMTM4NzAwNTQ3NSwtNTkxMzEzNzAsLTEwNTM4NjIx
+ODYsLTE0MTY3NTkzNDYsNjQ0NjQxODUyLC0xMDg1NjY2NDYxLC
+0xMTU1OTQ1MjQwLDIxMzUyMTY4MTAsMTk5MzU5ODY4OCwxMjU3
+NzQwMDUyLDE3OTIzMjAwMzcsMTQ4NDgyMjU1LDcxODEwNjY4Ni
+wtNzI0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4
+NTA2NDczXX0=
 -->
