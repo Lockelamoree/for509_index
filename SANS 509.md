@@ -26,7 +26,7 @@
 |3-5-7| AWS Organizations|
 |3-7| AWS Audit Manager|
 |3-8| AWS Billing|
-
+|3-9| AWS IR Role in Organization|
 
 
 ## B
@@ -316,7 +316,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mjc2MDYyNyw5ODYzODk0MDcsLTE5Nj
+eyJoaXN0b3J5IjpbLTIwOTY4NDE5MCw5ODYzODk0MDcsLTE5Nj
 E0NDEwMTcsLTIwODg1MDE4ODcsNjA3Njc0MjA4LDEzODcwMDU0
 NzUsLTU5MTMxMzcwLC0xMDUzODYyMTg2LC0xNDE2NzU5MzQ2LD
 Y0NDY0MTg1MiwtMTA4NTY2NjQ2MSwtMTE1NTk0NTI0MCwyMTM1
