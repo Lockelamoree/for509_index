@@ -22,6 +22,7 @@
 |2-112-116| Azure VM Run Command / Powershell Artifacts|
 |2-120| Application Logs|
 |2-126| azcopy Snapshot|
+|2-132|Azure Threat Research Matrix|
 
 
 ## B
@@ -193,7 +194,7 @@
 | 1-49   | Pricing    |
 | 1-60-66   | Powershell accessing M365/UAL    |
 |2-61   | PTIH in Storage Blobs    |
-| Row 5    | Row 5    |
+| 2-131    | Playbooks    |
 
 ## Q
 
@@ -236,7 +237,7 @@
 |2-96-98| Storage Account Access|
 |2-100| Storage Log Schema|
 |2-111| Storage Log Policies|
-|2-129| Sentinel|
+|2-129-131| Sentinel|
 
 ## T
 
@@ -311,11 +312,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MTg0NjczLC0yMDg4NTAxODg3LDYwNz
-Y3NDIwOCwxMzg3MDA1NDc1LC01OTEzMTM3MCwtMTA1Mzg2MjE4
-NiwtMTQxNjc1OTM0Niw2NDQ2NDE4NTIsLTEwODU2NjY0NjEsLT
-ExNTU5NDUyNDAsMjEzNTIxNjgxMCwxOTkzNTk4Njg4LDEyNTc3
-NDAwNTIsMTc5MjMyMDAzNywxNDg0ODIyNTUsNzE4MTA2Njg2LC
-03MjQxMDQ2NjEsLTE2ODE3MDgxNDQsMzc4MjUwMjQyLC0yMDg1
-MDY0NzNdfQ==
+eyJoaXN0b3J5IjpbLTE5NjE0NDEwMTcsLTIwODg1MDE4ODcsNj
+A3Njc0MjA4LDEzODcwMDU0NzUsLTU5MTMxMzcwLC0xMDUzODYy
+MTg2LC0xNDE2NzU5MzQ2LDY0NDY0MTg1MiwtMTA4NTY2NjQ2MS
+wtMTE1NTk0NTI0MCwyMTM1MjE2ODEwLDE5OTM1OTg2ODgsMTI1
+Nzc0MDA1MiwxNzkyMzIwMDM3LDE0ODQ4MjI1NSw3MTgxMDY2OD
+YsLTcyNDEwNDY2MSwtMTY4MTcwODE0NCwzNzgyNTAyNDIsLTIw
+ODUwNjQ3M119
 -->
