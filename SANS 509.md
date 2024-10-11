@@ -223,7 +223,7 @@
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
-| 1-47, 2-123  |   Snapshot  |
+| 1-47, 2-123-125  |   Snapshot  |
 | 1-31   | Search Examples    |
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
@@ -267,7 +267,7 @@
 | 2-71   | VM Storage: Managed Disks (Azure)  |
 | 2-72 -73   | VM Creation Events    |
 | 2-74   | VM Crypto Mining    |
-| Row 5    | Row 5    |
+| 2-125   | Row 5    |
 
 ## W
 
@@ -310,11 +310,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTgyODIyMywtMjA4ODUwMTg4Nyw2MD
-c2NzQyMDgsMTM4NzAwNTQ3NSwtNTkxMzEzNzAsLTEwNTM4NjIx
-ODYsLTE0MTY3NTkzNDYsNjQ0NjQxODUyLC0xMDg1NjY2NDYxLC
-0xMTU1OTQ1MjQwLDIxMzUyMTY4MTAsMTk5MzU5ODY4OCwxMjU3
-NzQwMDUyLDE3OTIzMjAwMzcsMTQ4NDgyMjU1LDcxODEwNjY4Ni
-wtNzI0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4
-NTA2NDczXX0=
+eyJoaXN0b3J5IjpbLTE2MjgxNDkxMTYsLTIwODg1MDE4ODcsNj
+A3Njc0MjA4LDEzODcwMDU0NzUsLTU5MTMxMzcwLC0xMDUzODYy
+MTg2LC0xNDE2NzU5MzQ2LDY0NDY0MTg1MiwtMTA4NTY2NjQ2MS
+wtMTE1NTk0NTI0MCwyMTM1MjE2ODEwLDE5OTM1OTg2ODgsMTI1
+Nzc0MDA1MiwxNzkyMzIwMDM3LDE0ODQ4MjI1NSw3MTgxMDY2OD
+YsLTcyNDEwNDY2MSwtMTY4MTcwODE0NCwzNzgyNTAyNDIsLTIw
+ODUwNjQ3M119
 -->
