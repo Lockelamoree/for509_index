@@ -21,6 +21,7 @@
 |2-79| Azure Network Security Group|
 |2-112-116| Azure VM Run Command / Powershell Artifacts|
 |2-120| Application Logs|
+|2-126| azcopy Snapshot|
 
 
 ## B
@@ -81,7 +82,7 @@
 | 1-95-96  | File Operations    |
 | 1-97 -100  | File Sharing    |
 | 1-101-103   | File Lifecycle Tracking    |
-| 2-123   | Forensic VM    |
+| 2-123, 2-127   | Forensic VM    |
 | Row 5    | Row 5    |
 
 
@@ -267,7 +268,7 @@
 | 2-71   | VM Storage: Managed Disks (Azure)  |
 | 2-72 -73   | VM Creation Events    |
 | 2-74   | VM Crypto Mining    |
-| 2-125   | Row 5    |
+| 2-125   | VHD    |
 
 ## W
 
@@ -310,11 +311,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgxNDkxMTYsLTIwODg1MDE4ODcsNj
-A3Njc0MjA4LDEzODcwMDU0NzUsLTU5MTMxMzcwLC0xMDUzODYy
-MTg2LC0xNDE2NzU5MzQ2LDY0NDY0MTg1MiwtMTA4NTY2NjQ2MS
-wtMTE1NTk0NTI0MCwyMTM1MjE2ODEwLDE5OTM1OTg2ODgsMTI1
-Nzc0MDA1MiwxNzkyMzIwMDM3LDE0ODQ4MjI1NSw3MTgxMDY2OD
-YsLTcyNDEwNDY2MSwtMTY4MTcwODE0NCwzNzgyNTAyNDIsLTIw
-ODUwNjQ3M119
+eyJoaXN0b3J5IjpbLTU3MjgzNDE1MiwtMjA4ODUwMTg4Nyw2MD
+c2NzQyMDgsMTM4NzAwNTQ3NSwtNTkxMzEzNzAsLTEwNTM4NjIx
+ODYsLTE0MTY3NTkzNDYsNjQ0NjQxODUyLC0xMDg1NjY2NDYxLC
+0xMTU1OTQ1MjQwLDIxMzUyMTY4MTAsMTk5MzU5ODY4OCwxMjU3
+NzQwMDUyLDE3OTIzMjAwMzcsMTQ4NDgyMjU1LDcxODEwNjY4Ni
+wtNzI0MTA0NjYxLC0xNjgxNzA4MTQ0LDM3ODI1MDI0MiwtMjA4
+NTA2NDczXX0=
 -->
