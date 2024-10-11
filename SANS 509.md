@@ -81,7 +81,7 @@
 | 1-95-96  | File Operations    |
 | 1-97 -100  | File Sharing    |
 | 1-101-103   | File Lifecycle Tracking    |
-| Row 4    | Row 4    |
+| 2-123   | Forensic VM    |
 | Row 5    | Row 5    |
 
 
@@ -223,7 +223,7 @@
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
 | 1-44    | Shared Responsibilites Model    |
-| 1-47  |   Snapshot  |
+| 1-47, 2-123  |   Snapshot  |
 | 1-31   | Search Examples    |
 | 1-40    | SaaS    |
 | 1-41    | Serverless    |
@@ -310,7 +310,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDAxNDEzNywtMjA4ODUwMTg4Nyw2MD
+eyJoaXN0b3J5IjpbLTgzMTgyODIyMywtMjA4ODUwMTg4Nyw2MD
 c2NzQyMDgsMTM4NzAwNTQ3NSwtNTkxMzEzNzAsLTEwNTM4NjIx
 ODYsLTE0MTY3NTkzNDYsNjQ0NjQxODUyLC0xMDg1NjY2NDYxLC
 0xMTU1OTQ1MjQwLDIxMzUyMTY4MTAsMTk5MzU5ODY4OCwxMjU3
