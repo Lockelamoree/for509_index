@@ -25,6 +25,7 @@
 |2-132|Azure Threat Research Matrix|
 |3-5-7| AWS Organizations|
 |3-7| AWS Audit Manager|
+|3-8| AWS Billing|
 
 
 ## B
@@ -314,7 +315,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMTk1MjkxLC0xOTYxNDQxMDE3LC0yMD
+eyJoaXN0b3J5IjpbOTg2Mzg5NDA3LC0xOTYxNDQxMDE3LC0yMD
 g4NTAxODg3LDYwNzY3NDIwOCwxMzg3MDA1NDc1LC01OTEzMTM3
 MCwtMTA1Mzg2MjE4NiwtMTQxNjc1OTM0Niw2NDQ2NDE4NTIsLT
 EwODU2NjY0NjEsLTExNTU5NDUyNDAsMjEzNTIxNjgxMCwxOTkz
