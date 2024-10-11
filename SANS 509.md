@@ -28,6 +28,7 @@
 |3-8| AWS Billing|
 |3-9| AWS IR Role in Organization|
 |3-10| AWS Security Reference Architecture (SRA) |
+|3-23|Accessing AWS|
 
 
 ## B
@@ -318,7 +319,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzkwMTkzNCw2NjE3NTgxMjksMTk3MD
+eyJoaXN0b3J5IjpbLTQ0MDM3ODUxOCw2NjE3NTgxMjksMTk3MD
 gyOTc2OSwtNTQ2MzkwNDA2LC01NzQ0ODg4ODAsLTkwMDQ3ODI0
 NywtMjA5Njg0MTkwLDk4NjM4OTQwNywtMTk2MTQ0MTAxNywtMj
 A4ODUwMTg4Nyw2MDc2NzQyMDgsMTM4NzAwNTQ3NSwtNTkxMzEz
