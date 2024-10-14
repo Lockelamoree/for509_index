@@ -206,7 +206,7 @@
 | 1-30    | Lucene    |
 | 2-42-57   | Log Analytics Workspace    |
 |2-117 -119    | Linux Logs (WAD)    |
-| Row 5    | Row 5    |
+| 3-137   | Lamba Functions    |
 
 ## M
 
@@ -379,7 +379,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODgyNDAzNiwtMTQzODMyOTcxMiwxNT
+eyJoaXN0b3J5IjpbLTI4NTMwNjkzNywtMTQzODMyOTcxMiwxNT
 I3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5NDM3NDEsNDI0NjU4
 NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0NDk5LDI2MTQ1MjEzMy
 wxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3NjUwNDYyLC0xMjAz
