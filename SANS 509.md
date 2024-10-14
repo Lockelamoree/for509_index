@@ -34,7 +34,7 @@
 |3-52| AWS What Services are running - invictusaws.py|
 |3-53| AWS API Calls that Return Credentials|
 |3-72| Amazon Lightsail|
-|3-96| AWS Loadbalancer|
+|3-96-98| AWS Loadbalancer|
 
 
 ## B
@@ -322,6 +322,7 @@
 | 2-125   | VHD    |
 |3-91-92| Virtual Private Cloud|
 |3-93| VPC Subnets|
+|3-99|VPC Flowlogs|
 
 ## W
 
@@ -364,11 +365,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNT
-AyNDYwODksMTk4MjkzOTQsLTE3MTc2NTA0NjIsLTEyMDMzNjk3
-NjksMzkzMzMwMzQxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC0xMT
-AxNjAwNjIzLDEyNzE5OTAxMTMsLTQ0MDM3ODUxOCw2NjE3NTgx
-MjksMTk3MDgyOTc2OSwtNTQ2MzkwNDA2LC01NzQ0ODg4ODAsLT
-kwMDQ3ODI0NywtMjA5Njg0MTkwLDk4NjM4OTQwNywtMTk2MTQ0
-MTAxN119
+eyJoaXN0b3J5IjpbLTE3MDkwODI5MDksLTEzNjkyMTQ0OTksMj
+YxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOTQsLTE3MTc2NTA0
+NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0NDYzNzc0NywtNz
+g0OTQyOTMxLC0xMTAxNjAwNjIzLDEyNzE5OTAxMTMsLTQ0MDM3
+ODUxOCw2NjE3NTgxMjksMTk3MDgyOTc2OSwtNTQ2MzkwNDA2LC
+01NzQ0ODg4ODAsLTkwMDQ3ODI0NywtMjA5Njg0MTkwLDk4NjM4
+OTQwN119
 -->
