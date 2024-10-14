@@ -63,6 +63,7 @@
 |3-35| Cloudtrail Useridentity Types|
 |3-41-42| Cloudtrail IAM Investigation / Tracking|
 |3-43| Cloudtrail Console Login|
+|3-44| Cloudtrail API Creation|
 
 
 ## D
@@ -330,7 +331,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDg5NTY5NiwtMTEwMTYwMDYyMywxMj
+eyJoaXN0b3J5IjpbMTY5NDkxOTc0OCwtMTEwMTYwMDYyMywxMj
 cxOTkwMTEzLC00NDAzNzg1MTgsNjYxNzU4MTI5LDE5NzA4Mjk3
 NjksLTU0NjM5MDQwNiwtNTc0NDg4ODgwLC05MDA0NzgyNDcsLT
 IwOTY4NDE5MCw5ODYzODk0MDcsLTE5NjE0NDEwMTcsLTIwODg1
