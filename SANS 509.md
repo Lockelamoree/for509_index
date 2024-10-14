@@ -46,7 +46,7 @@
 |3-150| AWS Systems Manager (SSM)|
 |3-151| AWS Systems Manager Commands to hunt for|
 |3-152| AWS SSM Logs|
-|3-153| AVML and AWS
+|3-153| AVML and AWS Systems Manager|
 
 
 ## B
@@ -215,6 +215,7 @@
 | 2-42-57   | Log Analytics Workspace    |
 |2-117 -119    | Linux Logs (WAD)    |
 | 3-137 -139  | Lamba Functions    |
+|3-153| LiME|
 
 ## M
 
@@ -227,6 +228,7 @@
 | 1-87 -89   | Message Tracing/Tracking (Exchange Admin Center / Microsoft Purview Compliance Portal    |
 |2-4|Management groups|
 |3-153| Margarita Shotgun|
+
 
 ## N
 
@@ -389,11 +391,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjYxNTUwOTYsLTEzNTUyNzY1MDUsLT
-E0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMjE4
-OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIxND
-Q5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NCwtMTcx
-NzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0NjM3Nz
-Q3LC03ODQ5NDI5MzEsLTExMDE2MDA2MjMsMTI3MTk5MDExMywt
-NDQwMzc4NTE4XX0=
+eyJoaXN0b3J5IjpbNjcyMDgzNjkxLC0xMzU1Mjc2NTA1LC0xND
+M4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNCwtMTIxODk0
+Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEzNjkyMTQ0OT
+ksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOTQsLTE3MTc2
+NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0NDYzNzc0Ny
+wtNzg0OTQyOTMxLC0xMTAxNjAwNjIzLDEyNzE5OTAxMTMsLTQ0
+MDM3ODUxOF19
 -->
