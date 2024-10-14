@@ -70,6 +70,7 @@
 |3-47| Cloudtrail User Agens|
 |3-51| Cloudtrail Exposed API Keys|
 |3-56| Cloudtrail Threat Hunting|
+|3-57| Cloudtrail Lake|
 
 
 
@@ -123,6 +124,7 @@
 | 1-125   | Graph API Approval Roles   |
 |1-128-133 | Graph API Activity Logs|
 |1-134 -136| Graph API Crowdstrike CRT Tool|
+|3-58| Guard Duty|
 
 
 ## H
@@ -338,7 +340,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MDA0NzQ3LDU0NDYzNzc0NywtNzg0OT
+eyJoaXN0b3J5IjpbMzkzMzMwMzQxLDU0NDYzNzc0NywtNzg0OT
 QyOTMxLC0xMTAxNjAwNjIzLDEyNzE5OTAxMTMsLTQ0MDM3ODUx
 OCw2NjE3NTgxMjksMTk3MDgyOTc2OSwtNTQ2MzkwNDA2LC01Nz
 Q0ODg4ODAsLTkwMDQ3ODI0NywtMjA5Njg0MTkwLDk4NjM4OTQw
