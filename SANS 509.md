@@ -105,6 +105,7 @@
 |3-63| EC2 Elastic Compute Cloud|
 |3-64| EC2 Types|
 |3-66| EC2 Global View|
+|3-74-| EBS|
 
 
 ## F
@@ -348,7 +349,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcwOTE0MzIsLTEyMDMzNjk3NjksMz
+eyJoaXN0b3J5IjpbLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMz
 kzMzMwMzQxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC0xMTAxNjAw
 NjIzLDEyNzE5OTAxMTMsLTQ0MDM3ODUxOCw2NjE3NTgxMjksMT
 k3MDgyOTc2OSwtNTQ2MzkwNDA2LC01NzQ0ODg4ODAsLTkwMDQ3
