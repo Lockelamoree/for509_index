@@ -228,7 +228,7 @@
 | 1-87 -89   | Message Tracing/Tracking (Exchange Admin Center / Microsoft Purview Compliance Portal    |
 |2-4|Management groups|
 |3-153| Margarita Shotgun|
-
+|3-154| Memory Collection Windows|
 
 ## N
 
@@ -391,11 +391,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMDgzNjkxLC0xMzU1Mjc2NTA1LC0xND
-M4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNCwtMTIxODk0
-Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEzNjkyMTQ0OT
-ksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOTQsLTE3MTc2
-NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0NDYzNzc0Ny
-wtNzg0OTQyOTMxLC0xMTAxNjAwNjIzLDEyNzE5OTAxMTMsLTQ0
-MDM3ODUxOF19
+eyJoaXN0b3J5IjpbLTYxNjk1MzQ4NywtMTM1NTI3NjUwNSwtMT
+QzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5
+NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0ND
+k5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3
+NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1NDQ2Mzc3ND
+csLTc4NDk0MjkzMSwtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00
+NDAzNzg1MThdfQ==
 -->
