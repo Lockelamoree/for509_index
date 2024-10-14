@@ -54,6 +54,7 @@
 |1-79| ClientInfoString|
 |3-25, 3-27| Cloudtrail|
 |3-26| Cloudtrail Management Event and Data Events|
+|3-28| CloudTrail Creation
 
 
 ## D
@@ -321,7 +322,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTkzODgzNiwxMjcxOTkwMTEzLC00ND
+eyJoaXN0b3J5IjpbMTAyNzMyMzI3NiwxMjcxOTkwMTEzLC00ND
 AzNzg1MTgsNjYxNzU4MTI5LDE5NzA4Mjk3NjksLTU0NjM5MDQw
 NiwtNTc0NDg4ODgwLC05MDA0NzgyNDcsLTIwOTY4NDE5MCw5OD
 YzODk0MDcsLTE5NjE0NDEwMTcsLTIwODg1MDE4ODcsNjA3Njc0
