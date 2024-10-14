@@ -43,7 +43,8 @@
 |3-130| AWS Security Analytics Bootstrap|
 |3-133| Amazon Detective|
 |3-147| AWS IR VM|
-|3-150| AWS Systems Manager|
+|3-150| AWS Systems Manager (SSM)|
+|3-151| AWS Systems Manager Commands to hunt for|
 
 
 ## B
@@ -385,7 +386,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTA0MDkwNSwtMTM1NTI3NjUwNSwtMT
+eyJoaXN0b3J5IjpbMTA5ODMyOTY5MywtMTM1NTI3NjUwNSwtMT
 QzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5
 NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0ND
 k5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3
