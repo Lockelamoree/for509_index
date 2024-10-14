@@ -123,6 +123,7 @@
 |3-74-75| EBS|
 |3-84| EFS|
 |3-136| Event Driven Response|
+|3-140| Event Triggers|
 
 
 ## F
@@ -206,7 +207,7 @@
 | 1-30    | Lucene    |
 | 2-42-57   | Log Analytics Workspace    |
 |2-117 -119    | Linux Logs (WAD)    |
-| 3-137   | Lamba Functions    |
+| 3-137 -139  | Lamba Functions    |
 
 ## M
 
@@ -303,6 +304,7 @@
 |3-113-115| S3 Buckets IR|
 |3-120|S3 Logging|
 |3-136| Security Incident Response Guide|
+|3-141| Step Functions|
 ## T
 
 | Column 1 | Column 2 |
@@ -379,11 +381,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTMwNjkzNywtMTQzODMyOTcxMiwxNT
-I3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5NDM3NDEsNDI0NjU4
-NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0NDk5LDI2MTQ1MjEzMy
-wxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3NjUwNDYyLC0xMjAz
-MzY5NzY5LDM5MzMzMDM0MSw1NDQ2Mzc3NDcsLTc4NDk0MjkzMS
-wtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00NDAzNzg1MTgsNjYx
-NzU4MTI5XX0=
+eyJoaXN0b3J5IjpbODg2ODIxMTIyLC0xNDM4MzI5NzEyLDE1Mj
+czNjI1ODQsLTY3NTgyNDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3
+ODIsLTE3MDkwODI5MDksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLD
+ExNTAyNDYwODksMTk4MjkzOTQsLTE3MTc2NTA0NjIsLTEyMDMz
+Njk3NjksMzkzMzMwMzQxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC
+0xMTAxNjAwNjIzLDEyNzE5OTAxMTMsLTQ0MDM3ODUxOCw2NjE3
+NTgxMjldfQ==
 -->
