@@ -36,6 +36,7 @@
 |3-72| Amazon Lightsail|
 |3-96-98| AWS Loadbalancer|
 |3-102| AWS DNS|
+|3-114| Athena|
 
 
 ## B
@@ -140,6 +141,7 @@
 |1-128-133 | Graph API Activity Logs|
 |1-134 -136| Graph API Crowdstrike CRT Tool|
 |3-58-59| Guard Duty|
+|3-114| Glue|
 
 
 ## H
@@ -368,7 +370,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzM0ODE5OCwtNjc1ODI0ODM0LC0xMj
+eyJoaXN0b3J5IjpbMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMj
 E4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIx
 NDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NCwtMT
 cxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0NjM3
