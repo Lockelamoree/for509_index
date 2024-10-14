@@ -161,6 +161,7 @@
 | 3-21   | IAM Policy Simulator    |
 | 3-22    | IAM Access in Incidents    |
 |3-71| IAM Roles|
+|3-94| Internet Gateways|
 
 
 ## J
@@ -285,6 +286,7 @@
 |3-79| Snapshot with CLI|
 |3-80| Snapshot Download|
 |3-81| DFIR Snapshot|
+|3-95| Security Groups|
 
 ## T
 
@@ -361,7 +363,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTQ1MjU0NywxMTUwMjQ2MDg5LDE5OD
+eyJoaXN0b3J5IjpbMTQzNzU5ODMzNiwxMTUwMjQ2MDg5LDE5OD
 I5Mzk0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0
 MSw1NDQ2Mzc3NDcsLTc4NDk0MjkzMSwtMTEwMTYwMDYyMywxMj
 cxOTkwMTEzLC00NDAzNzg1MTgsNjYxNzU4MTI5LDE5NzA4Mjk3
