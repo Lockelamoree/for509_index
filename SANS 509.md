@@ -45,6 +45,8 @@
 |3-147| AWS IR VM|
 |3-150| AWS Systems Manager (SSM)|
 |3-151| AWS Systems Manager Commands to hunt for|
+|3-152| AWS SSM Logs|
+|3-153| AVML and AWS
 
 
 ## B
@@ -224,6 +226,7 @@
 | 1-78    | MailAccessType: Bind vs. Sync   |
 | 1-87 -89   | Message Tracing/Tracking (Exchange Admin Center / Microsoft Purview Compliance Portal    |
 |2-4|Management groups|
+|3-153| Margarita Shotgun|
 
 ## N
 
@@ -386,11 +389,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODMyOTY5MywtMTM1NTI3NjUwNSwtMT
-QzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5
-NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0ND
-k5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3
-NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1NDQ2Mzc3ND
-csLTc4NDk0MjkzMSwtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00
-NDAzNzg1MThdfQ==
+eyJoaXN0b3J5IjpbLTE5MjYxNTUwOTYsLTEzNTUyNzY1MDUsLT
+E0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMjE4
+OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIxND
+Q5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NCwtMTcx
+NzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0NjM3Nz
+Q3LC03ODQ5NDI5MzEsLTExMDE2MDA2MjMsMTI3MTk5MDExMywt
+NDQwMzc4NTE4XX0=
 -->
