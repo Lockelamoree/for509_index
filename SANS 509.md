@@ -39,6 +39,8 @@
 |3-114, 3-125, 3-128| Athena|
 |3-115-116| AWS Transfer Acceleration|
 |3-124| AWS Log Sources|
+|3-129| Assisted Log Enabler|
+|3-130| AWS Security Analytics Bootstrap|
 
 
 ## B
@@ -374,7 +376,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjE1MjU4OCwxNTI3MzYyNTg0LC02Nz
+eyJoaXN0b3J5IjpbLTE0MDcwMjgyMiwxNTI3MzYyNTg0LC02Nz
 U4MjQ4MzQsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgy
 OTA5LC0xMzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LD
 E5ODI5Mzk0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMz
