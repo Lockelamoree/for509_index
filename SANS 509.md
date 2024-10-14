@@ -33,6 +33,7 @@
 |3-48-50| AWS Access Keys explainend|
 |3-52| AWS What Services are running - invictusaws.py|
 |3-53| AWS API Calls that Return Credentials|
+|3-72| Amazon Lightsail|
 
 
 ## B
@@ -347,7 +348,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYwMDc3OTgsLTEyMDMzNjk3NjksMz
+eyJoaXN0b3J5IjpbLTE5ODcwOTE0MzIsLTEyMDMzNjk3NjksMz
 kzMzMwMzQxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC0xMTAxNjAw
 NjIzLDEyNzE5OTAxMTMsLTQ0MDM3ODUxOCw2NjE3NTgxMjksMT
 k3MDgyOTc2OSwtNTQ2MzkwNDA2LC01NzQ0ODg4ODAsLTkwMDQ3
