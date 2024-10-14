@@ -71,7 +71,7 @@
 |3-51| Cloudtrail Exposed API Keys|
 |3-56| Cloudtrail Threat Hunting|
 |3-57| Cloudtrail Lake|
-|3-67-69| Cloudtrail Creating an EC2 Instance|
+|3-67-70| Cloudtrail Creating an EC2 Instance|
 
 
 
@@ -151,6 +151,7 @@
 | 3-16-20   | IAM Policies    |
 | 3-21   | IAM Policy Simulator    |
 | 3-22    | IAM Access in Incidents    |
+|3-71| IAM Roles|
 
 
 ## J
@@ -271,6 +272,7 @@
 |2-100| Storage Log Schema|
 |2-111| Storage Log Policies|
 |2-129-131| Sentinel|
+|3-71| STS Tokens|
 
 ## T
 
@@ -345,11 +347,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTk4ODYxNiwtMTIwMzM2OTc2OSwzOT
-MzMzAzNDEsNTQ0NjM3NzQ3LC03ODQ5NDI5MzEsLTExMDE2MDA2
-MjMsMTI3MTk5MDExMywtNDQwMzc4NTE4LDY2MTc1ODEyOSwxOT
-cwODI5NzY5LC01NDYzOTA0MDYsLTU3NDQ4ODg4MCwtOTAwNDc4
-MjQ3LC0yMDk2ODQxOTAsOTg2Mzg5NDA3LC0xOTYxNDQxMDE3LC
-0yMDg4NTAxODg3LDYwNzY3NDIwOCwxMzg3MDA1NDc1LC01OTEz
-MTM3MF19
+eyJoaXN0b3J5IjpbLTEzNDYwMDc3OTgsLTEyMDMzNjk3NjksMz
+kzMzMwMzQxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC0xMTAxNjAw
+NjIzLDEyNzE5OTAxMTMsLTQ0MDM3ODUxOCw2NjE3NTgxMjksMT
+k3MDgyOTc2OSwtNTQ2MzkwNDA2LC01NzQ0ODg4ODAsLTkwMDQ3
+ODI0NywtMjA5Njg0MTkwLDk4NjM4OTQwNywtMTk2MTQ0MTAxNy
+wtMjA4ODUwMTg4Nyw2MDc2NzQyMDgsMTM4NzAwNTQ3NSwtNTkx
+MzEzNzBdfQ==
 -->
