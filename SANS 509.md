@@ -82,7 +82,7 @@
 |3-82-83| Cloudtrail Creation of Snapshot|
 |3-85-87| Cloudtrail Mounting an EFS|
 |3-88| Cloud Watch Logs Agent|
-|3-117| Cloudtrail S3 Access|
+|3-117-119| Cloudtrail S3 Access|
 
 
 
@@ -296,6 +296,7 @@
 |3-95| Security Groups|
 |3-108-112| S3 Buckets|
 |3-113-115| S3 Buckets IR|
+|3-120|S3 Logging|
 ## T
 
 | Column 1 | Column 2 |
@@ -372,11 +373,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYyNjkwNzgsMTUyNzM2MjU4NCwtNj
-c1ODI0ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4
-MjkwOSwtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OS
-wxOTgyOTM5NCwtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMz
-MzAzNDEsNTQ0NjM3NzQ3LC03ODQ5NDI5MzEsLTExMDE2MDA2Mj
-MsMTI3MTk5MDExMywtNDQwMzc4NTE4LDY2MTc1ODEyOSwxOTcw
-ODI5NzY5XX0=
+eyJoaXN0b3J5IjpbNTAzNDMxNjY2LDE1MjczNjI1ODQsLTY3NT
+gyNDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5
+MDksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMT
+k4MjkzOTQsLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMw
+MzQxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC0xMTAxNjAwNjIzLD
+EyNzE5OTAxMTMsLTQ0MDM3ODUxOCw2NjE3NTgxMjksMTk3MDgy
+OTc2OV19
 -->
