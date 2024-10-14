@@ -42,7 +42,7 @@
 |3-129| Assisted Log Enabler|
 |3-130| AWS Security Analytics Bootstrap|
 |3-133| Amazon Detective|
-|3-147
+|3-147| AWS IR VM|
 
 
 ## B
@@ -126,6 +126,7 @@
 |3-136| Event Driven Response|
 |3-140| Event Triggers|
 |3-142-144| Event Driven DFIR Automation|
+|3-148| EC2 IR|
 
 
 ## F
@@ -383,7 +384,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQwNzM1ODEsLTEzNTUyNzY1MDUsLT
+eyJoaXN0b3J5IjpbLTE0MTQ3OTk0NTAsLTEzNTUyNzY1MDUsLT
 E0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMjE4
 OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIxND
 Q5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NCwtMTcx
