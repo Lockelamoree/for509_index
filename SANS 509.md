@@ -31,6 +31,7 @@
 |3-23-24|Accessing AWS|
 |3-37-40| ARN -Amazon Resource Name|
 |3-48-50| AWS Access Keys explainend|
+|3-52| AWS What Services are running - invictusaws.py|
 
 
 ## B
@@ -334,7 +335,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDEwMjc5Miw1NDQ2Mzc3NDcsLTc4ND
+eyJoaXN0b3J5IjpbMTQxMjk2ODE4MSw1NDQ2Mzc3NDcsLTc4ND
 k0MjkzMSwtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00NDAzNzg1
 MTgsNjYxNzU4MTI5LDE5NzA4Mjk3NjksLTU0NjM5MDQwNiwtNT
 c0NDg4ODgwLC05MDA0NzgyNDcsLTIwOTY4NDE5MCw5ODYzODk0
