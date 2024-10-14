@@ -41,7 +41,7 @@
 |3-124| AWS Log Sources|
 |3-129| Assisted Log Enabler|
 |3-130| AWS Security Analytics Bootstrap|
-|3-131| Amazon Detective|
+|3-133| Amazon Detective|
 
 
 ## B
@@ -122,6 +122,7 @@
 |3-66| EC2 Global View|
 |3-74-75| EBS|
 |3-84| EFS|
+|3-136| Event Driven Response|
 
 
 ## F
@@ -301,6 +302,7 @@
 |3-108-112| S3 Buckets|
 |3-113-115| S3 Buckets IR|
 |3-120|S3 Logging|
+|3-136| Security Incident Response Guide|
 ## T
 
 | Column 1 | Column 2 |
@@ -377,11 +379,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNj
-c1ODI0ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4
-MjkwOSwtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OS
-wxOTgyOTM5NCwtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMz
-MzAzNDEsNTQ0NjM3NzQ3LC03ODQ5NDI5MzEsLTExMDE2MDA2Mj
-MsMTI3MTk5MDExMywtNDQwMzc4NTE4LDY2MTc1ODEyOSwxOTcw
-ODI5NzY5XX0=
+eyJoaXN0b3J5IjpbMTcwODgyNDAzNiwtMTQzODMyOTcxMiwxNT
+I3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5NDM3NDEsNDI0NjU4
+NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0NDk5LDI2MTQ1MjEzMy
+wxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3NjUwNDYyLC0xMjAz
+MzY5NzY5LDM5MzMzMDM0MSw1NDQ2Mzc3NDcsLTc4NDk0MjkzMS
+wtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00NDAzNzg1MTgsNjYx
+NzU4MTI5XX0=
 -->
