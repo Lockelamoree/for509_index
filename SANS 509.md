@@ -66,7 +66,7 @@
 |3-43| Cloudtrail Console Login|
 |3-44-46| Cloudtrail API Creation|
 |3-47| Cloudtrail User Agens|
-
+|3-51| Cloudtrail Exposed API Keys|
 
 
 ## D
@@ -334,7 +334,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjI2ODUzOSw1NDQ2Mzc3NDcsLTc4ND
+eyJoaXN0b3J5IjpbMTkxMDEwMjc5Miw1NDQ2Mzc3NDcsLTc4ND
 k0MjkzMSwtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00NDAzNzg1
 MTgsNjYxNzU4MTI5LDE5NzA4Mjk3NjksLTU0NjM5MDQwNiwtNT
 c0NDg4ODgwLC05MDA0NzgyNDcsLTIwOTY4NDE5MCw5ODYzODk0
