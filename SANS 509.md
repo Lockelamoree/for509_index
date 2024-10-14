@@ -37,7 +37,7 @@
 |3-96-98| AWS Loadbalancer|
 |3-102| AWS DNS|
 |3-114| Athena|
-|3-115| AWS Transfer Acceleration|
+|3-115-116| AWS Transfer Acceleration|
 
 
 ## B
@@ -82,6 +82,7 @@
 |3-82-83| Cloudtrail Creation of Snapshot|
 |3-85-87| Cloudtrail Mounting an EFS|
 |3-88| Cloud Watch Logs Agent|
+|3-117| Cloudtrail S3 Access|
 
 
 
@@ -371,7 +372,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY3MzMyMDEsMTUyNzM2MjU4NCwtNj
+eyJoaXN0b3J5IjpbLTE5NjYyNjkwNzgsMTUyNzM2MjU4NCwtNj
 c1ODI0ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4
 MjkwOSwtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OS
 wxOTgyOTM5NCwtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMz
