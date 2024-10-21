@@ -214,7 +214,10 @@
 |4-174| Google Drive Audit Log Field|
 |4-175| Google Drive Audit Log API Export Download Item|
 |4-176-177| Google Drive Audit Log API Export Edit Item|
-
+|5-4| Google Cloud Intro GCP|
+|5-5| GCP Organization Overview|
+|5-6| GCP Organization in Practice|
+|5-7| 
 
 
 
@@ -471,11 +474,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUzNjEyMDQsMTI5MTAxMzY5MiwxNj
-I3MzgxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3
-NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4Mz
-QsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0x
-MzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mz
-k0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1
-NDQ2Mzc3NDddfQ==
+eyJoaXN0b3J5IjpbMTgyNjM0Njg5NywtMTkyNTM2MTIwNCwxMj
+kxMDEzNjkyLDE2MjczODE0NzQsMTkxODkwNzgyNiwtNjE2OTUz
+NDg3LC0xMzU1Mjc2NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1OD
+QsLTY3NTgyNDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3
+MDkwODI5MDksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyND
+YwODksMTk4MjkzOTQsLTE3MTc2NTA0NjIsLTEyMDMzNjk3Njks
+MzkzMzMwMzQxXX0=
 -->
