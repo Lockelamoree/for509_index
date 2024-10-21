@@ -183,7 +183,10 @@
 |4-89| GWS Oauth Consent|
 |4-90| GWS OAuth Client ID|
 |4-91| GWS Oauth Client Credentials|
-|4-149|
+|4-149| GWS Oauth|
+|4-150-152| GWS Third Party Abuse|
+|4-153-154| GWS Oauth Log Events|
+|4-155| GWS Oauth Audit Activity Events via AO
 |4-101| GWS MITRE ATT&CK |
 |4-103| GWS Common Attacks|
 |4-104| GWS Threats in GWS|
@@ -456,7 +459,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTg4MzAsMTI5MTAxMzY5MiwxNjI3Mz
+eyJoaXN0b3J5IjpbNzAzNjc4MTEsMTI5MTAxMzY5MiwxNjI3Mz
 gxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3NjUw
 NSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLT
 EyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5
