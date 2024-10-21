@@ -235,8 +235,10 @@
 |5-54-56| GCP Log Analytics|
 |5-57| GCP Logging Principles|
 |5-58| GCP Log Routing Overview|
-|5-59| GCP Logging Storage|
-|5-60| GCP Routing Sinks|
+|5-59, 5-63-65| GCP Logging Storage|
+|5-60-62| GCP Routing Sinks|
+|5-66-72| gcloud|
+|5-73 | gcp l
 
 ## H
 
@@ -490,7 +492,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk5NzMzNzYsLTEwMjE2MDQ5OTMsLT
+eyJoaXN0b3J5IjpbLTE4Mjc5MDMxMjIsLTEwMjE2MDQ5OTMsLT
 E5MjUzNjEyMDQsMTI5MTAxMzY5MiwxNjI3MzgxNDc0LDE5MTg5
 MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3NjUwNSwtMTQzODMyOT
 cxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5NDM3NDEs
