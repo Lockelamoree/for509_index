@@ -163,7 +163,9 @@
 |4-49-50| Google Workspace Editions|
 |4-51| Google Workspace Permissions|
 |4-53 -56| Google Workspace Admin Roles Overview|
-|4-57| Google Workspace Admin Role for DFIR|
+|4-57-58| Google Workspace Admin Role for DFIR|
+|4-59 -66| Google Workspace Organizational Overview|
+
 
 
 ## H
@@ -415,11 +417,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODkwNzgyNiwtNjE2OTUzNDg3LC0xMz
-U1Mjc2NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgy
-NDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MD
-ksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4
-MjkzOTQsLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMz
-QxLDU0NDYzNzc0NywtNzg0OTQyOTMxLC0xMTAxNjAwNjIzLDEy
-NzE5OTAxMTNdfQ==
+eyJoaXN0b3J5IjpbLTExNzYwMjg5LDE5MTg5MDc4MjYsLTYxNj
+k1MzQ4NywtMTM1NTI3NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYy
+NTg0LC02NzU4MjQ4MzQsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC
+0xNzA5MDgyOTA5LC0xMzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUw
+MjQ2MDg5LDE5ODI5Mzk0LC0xNzE3NjUwNDYyLC0xMjAzMzY5Nz
+Y5LDM5MzMzMDM0MSw1NDQ2Mzc3NDcsLTc4NDk0MjkzMSwtMTEw
+MTYwMDYyM119
 -->
