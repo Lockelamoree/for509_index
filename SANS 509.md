@@ -47,6 +47,7 @@
 |3-151| AWS Systems Manager Commands to hunt for|
 |3-152| AWS SSM Logs|
 |3-153| AVML and AWS Systems Manager|
+|4-82| Audit Logs Google Cloud|
 
 
 ## B
@@ -171,7 +172,10 @@
 |4-75| Google Workspace Logs: Retention & Lag|
 |4-76| Google Workspace Log Types|
 |4-77| Google Workspace Admin Logs and SDK|
-|4-78| Google Workspace Collecting Logs Reports
+|4-79| Google Workspace Collecting Logs Reports API vs. Workspace Admin|
+|4-80| Google Workspace Admin Audit Logs|
+|4-82| Google Cloud Send Logs|
+
 
 
 ## H
@@ -423,11 +427,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTg3OTAzLDE2MjczODE0NzQsMTkxOD
-kwNzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2NTA1LC0xNDM4MzI5
-NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNCwtMTIxODk0Mzc0MS
-w0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEzNjkyMTQ0OTksMjYx
-NDUyMTMzLDExNTAyNDYwODksMTk4MjkzOTQsLTE3MTc2NTA0Nj
-IsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0NDYzNzc0NywtNzg0
-OTQyOTMxXX0=
+eyJoaXN0b3J5IjpbLTE4MDY1ODU1NTAsMTYyNzM4MTQ3NCwxOT
+E4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1MDUsLTE0Mzgz
+Mjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMjE4OTQzNz
+QxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIxNDQ5OSwy
+NjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NCwtMTcxNzY1MD
+Q2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0NjM3NzQ3LC03
+ODQ5NDI5MzFdfQ==
 -->
