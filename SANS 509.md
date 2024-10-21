@@ -159,7 +159,10 @@
 |3-114, 3-125-127| Glue|
 |4-45| Google Global Footprint|
 |4-46| Google Shared Responsibilities|
-|4-4
+|4-47| Google Workspace Key Services|
+|4-49-50| Google Workspace Editions|
+|4-51| Google Workspace Permissions|
+|4-53| Google Workspace Admin Roles Overview|
 
 
 ## H
@@ -411,7 +414,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTc3NzM3NCwtNjE2OTUzNDg3LC0xMz
+eyJoaXN0b3J5IjpbMTE2MDUyMzA2NiwtNjE2OTUzNDg3LC0xMz
 U1Mjc2NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgy
 NDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MD
 ksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4
