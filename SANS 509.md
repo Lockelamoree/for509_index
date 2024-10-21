@@ -218,7 +218,10 @@
 | 3-137 -139  | Lamba Functions    |
 |3-153| LiME|
 |4-11-12| Kubernetes Architecture|
-|4-13| Kubernetes Networking|
+|4-13-14| Kubernetes Networking|
+|4-15-16| Kubernetes Logging|
+|4-17| Kubernetes Across all Clouds|
+|4-18| Kuberne
 
 ## M
 
@@ -395,7 +398,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1OTQ0NDEzLC02MTY5NTM0ODcsLTEzNT
+eyJoaXN0b3J5IjpbNTQwNTQ0MDEwLC02MTY5NTM0ODcsLTEzNT
 UyNzY1MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0
 ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOS
 wtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgy
