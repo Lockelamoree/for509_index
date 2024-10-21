@@ -225,6 +225,10 @@
 |4-23| Kubernetes Logging EKS|
 |4-24| Kubernetes Logging GKE|
 |4-25 | Kubernetes Attacks|
+|4-37| Kubernetes Attack Chain|
+|4-39| Kubernetes Attack Study|
+|4-40| Kubernetes Snapshot Analysis|
+|
 
 ## M
 
@@ -401,7 +405,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTIzNjkxNSwtNjE2OTUzNDg3LC0xMz
+eyJoaXN0b3J5IjpbLTE2ODcyMDIzMCwtNjE2OTUzNDg3LC0xMz
 U1Mjc2NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgy
 NDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MD
 ksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4
