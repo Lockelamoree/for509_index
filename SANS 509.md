@@ -210,7 +210,15 @@
 |4-164| Google Drive Alternate File Recover|
 |4-165-170| Google Drive Audit Log|
 |4-171-172| Google Drive Audit Log GSheet Export|
-|4-173| Google Drive Audit
+|4-173| Google Drive Audit Log CSV Export|
+|4-174| Google Drive Audit Log Field|
+|4-175| Google Drive Audit Log API Export Download Item|
+|4-176-177| Google Drive Audit Log API Export Edit Item|
+
+
+
+
+
 ## H
 
 | Column 1 | Column 2 |
@@ -463,11 +471,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTcxNzM3NjAsMTI5MTAxMzY5MiwxNj
-I3MzgxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3
-NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4Mz
-QsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0x
-MzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mz
-k0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1
-NDQ2Mzc3NDddfQ==
+eyJoaXN0b3J5IjpbLTE0MzM2MzMwMiwxMjkxMDEzNjkyLDE2Mj
+czODE0NzQsMTkxODkwNzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2
+NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNC
+wtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEz
+NjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOT
+QsLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0
+NDYzNzc0N119
 -->
