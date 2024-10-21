@@ -174,7 +174,7 @@
 |4-76| Google Workspace Log Types|
 |4-77| Google Workspace Admin Logs and SDK|
 |4-79| Google Workspace Collecting Logs Reports API vs. Workspace Admin|
-|4-80| Google Workspace Admin Audit Logs|
+|4-80, 4-140| Google Workspace Admin Audit Logs|
 |4-82 -84| Google Cloud Send Logs|
 |4-85 -86| GWS Setting up API Access to Logs|
 |4-87| GWS API Permissions|
@@ -190,13 +190,16 @@
 |4-110-114| Gmail Message Search|
 |4-115| Gmail Quarantine|
 |4-116| Gmail Log Events Search|
-|4-117| Gmail Advanced Phishing & Malware|
+|4-117, 4-134| Gmail Advanced Phishing & Malware|
 |4-119-120| GWS Email Retention|
 |4-121| GWS Vault for Gmail|
 |4-122|  GWS Vault Creating Matter|
 |4-123 -128| Gmail Vault Search|
 |4-129-131| Gmail Vault Export|
-|4-132| Gmail Vault Export Formats|
+|4-132-133| Gmail Vault Export Formats|
+|4-135| Gmail APT Attack Notifications|
+|4-136| GWS Workspace Detection and Automated Alerts|
+
 
 ## H
 
@@ -450,11 +453,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTczNTg4NywxMjkxMDEzNjkyLDE2Mj
-czODE0NzQsMTkxODkwNzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2
-NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNC
-wtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEz
-NjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOT
-QsLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0
-NDYzNzc0N119
+eyJoaXN0b3J5IjpbNDc5NjY1MDMxLDEyOTEwMTM2OTIsMTYyNz
+M4MTQ3NCwxOTE4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1
+MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC
+0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2
+OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NC
+wtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0
+NjM3NzQ3XX0=
 -->
