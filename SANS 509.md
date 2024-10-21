@@ -64,7 +64,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-40   | Cloud Models    |
-| 1-41, 4-7    | Containers    |
+| 1-41, 4-7 , 4-10   | Containers    |
 | 1-46   | Cloud Access Options    |
 | 1-46     | CLI   |
 | 1-48   | Cloud Flows (Net Flows)    |
@@ -217,6 +217,8 @@
 |2-117 -119    | Linux Logs (WAD)    |
 | 3-137 -139  | Lamba Functions    |
 |3-153| LiME|
+|4-11-12| Kubernetes Architecture|
+|4-13| Kubernetes Networking|
 
 ## M
 
@@ -239,7 +241,7 @@
 |2-81-84  | Network Security Groups    |
 |2-85-92 | NSG Flow Logs    |
 | 3-95   | Network ACLs   |
-| 4-9   | Nodes    |
+| 4-9-10   | Nodes    |
 
 ## O
 
@@ -261,7 +263,7 @@
 |2-61   | PTIH in Storage Blobs    |
 | 2-131    | Playbooks    |
 |3-15| Policy Evaluation|
-|4-8| Pods|
+|4-8, 4-10| Pods|
 
 ## Q
 
@@ -393,7 +395,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNjg0NDA4LC02MTY5NTM0ODcsLTEzNT
+eyJoaXN0b3J5IjpbNjU1OTQ0NDEzLC02MTY5NTM0ODcsLTEzNT
 UyNzY1MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0
 ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOS
 wtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgy
