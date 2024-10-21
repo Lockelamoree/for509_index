@@ -64,7 +64,7 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-40   | Cloud Models    |
-| 1-41    | Containers    |
+| 1-41, 4-7    | Containers    |
 | 1-46   | Cloud Access Options    |
 | 1-46     | CLI   |
 | 1-48   | Cloud Flows (Net Flows)    |
@@ -199,7 +199,8 @@
 |----------|----------|
 | 1-13,1-20   |Kibana    |
 | 1-30   | KQL    |
-| 1-45   | Key Logs for Investigations
+| 1-45   | Key Logs for Investigations|
+|4-5-6| Kubernetes|
 
 
     |
@@ -238,7 +239,7 @@
 |2-81-84  | Network Security Groups    |
 |2-85-92 | NSG Flow Logs    |
 | 3-95   | Network ACLs   |
-| Row 5    | Row 5    |
+| 4-9   | Nodes    |
 
 ## O
 
@@ -260,6 +261,7 @@
 |2-61   | PTIH in Storage Blobs    |
 | 2-131    | Playbooks    |
 |3-15| Policy Evaluation|
+|4-8| Pods|
 
 ## Q
 
@@ -391,11 +393,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjk1MzQ4NywtMTM1NTI3NjUwNSwtMT
-QzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5
-NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0ND
-k5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mzk0LC0xNzE3
-NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1NDQ2Mzc3ND
-csLTc4NDk0MjkzMSwtMTEwMTYwMDYyMywxMjcxOTkwMTEzLC00
-NDAzNzg1MThdfQ==
+eyJoaXN0b3J5IjpbNTgwNjg0NDA4LC02MTY5NTM0ODcsLTEzNT
+UyNzY1MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0
+ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOS
+wtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgy
+OTM5NCwtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzND
+EsNTQ0NjM3NzQ3LC03ODQ5NDI5MzEsLTExMDE2MDA2MjMsMTI3
+MTk5MDExM119
 -->
