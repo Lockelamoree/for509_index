@@ -217,8 +217,11 @@
 |5-4| Google Cloud Intro GCP|
 |5-5| GCP Organization Overview|
 |5-6| GCP Organization in Practice|
-|5-7| 
-
+|5-7| Google Cloud Resources Recap|
+|5-8| GCP DFIR|
+|5-10| GCP Identity Setup|
+|5-11-14| GCP IAM|
+|5-15| GCP IAM How Policies work?|
 
 
 
@@ -474,7 +477,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjM0Njg5NywtMTkyNTM2MTIwNCwxMj
+eyJoaXN0b3J5IjpbMTEwNDcyNzM2MiwtMTkyNTM2MTIwNCwxMj
 kxMDEzNjkyLDE2MjczODE0NzQsMTkxODkwNzgyNiwtNjE2OTUz
 NDg3LC0xMzU1Mjc2NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1OD
 QsLTY3NTgyNDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3
