@@ -190,6 +190,7 @@
 |4-110-114| Gmail Message Search|
 |4-115| Gmail Quarantine|
 |4-116| Gmail Log Events Search|
+|4-117| Gmail Advanced Phishing & Malware|
 
 
 
@@ -442,7 +443,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0MDUyMDg3LDEyOTEwMTM2OTIsMTYyNz
+eyJoaXN0b3J5IjpbMjM5Nzc4MTY4LDEyOTEwMTM2OTIsMTYyNz
 M4MTQ3NCwxOTE4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1
 MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC
 0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2
