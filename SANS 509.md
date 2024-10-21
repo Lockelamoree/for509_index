@@ -221,12 +221,12 @@
 |5-8| GCP DFIR|
 |5-10| GCP Identity Setup|
 |5-11-14| GCP IAM|
-|5-15-16| GCP IAM How Policies work?|
-|5-17| GCP IAM Challenges|
+|5-15-16, 5-28-34| GCP IAM How Policies |
+|5-17, 5-27| GCP IAM Challenges|
 |5-18-19| GCP IAM Logical Grouping|
-|5-20-21|GCP IAM Service Accounts|
+|5-20-21, 5-25-26|GCP IAM Service Accounts|
 |5-22-23| GCP Create IAM Service Account|
-|5-24| GCO IAM Basic Rule
+|5-24| GCO IAM Basic Roles: Owner vs. Editor|
 
 ## H
 
@@ -480,7 +480,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTQ5NDI3MSwtMTAyMTYwNDk5MywtMT
+eyJoaXN0b3J5IjpbMTQzODM0MjgyMiwtMTAyMTYwNDk5MywtMT
 kyNTM2MTIwNCwxMjkxMDEzNjkyLDE2MjczODE0NzQsMTkxODkw
 NzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2NTA1LC0xNDM4MzI5Nz
 EyLDE1MjczNjI1ODQsLTY3NTgyNDgzNCwtMTIxODk0Mzc0MSw0
