@@ -398,8 +398,8 @@
 | Column 1 | Column 2 |
 |----------|----------|
 | 1-51    | Terminology Across Clouds    |
-| Row 2    | Row 2    |
-| Row 3    | Row 3    |
+| 4-180 -183  | Takeout    |
+| 4-184 -185    | Takeout Export Whole Organization    |
 | Row 4    | Row 4    |
 | Row 5    | Row 5    |
 
@@ -471,11 +471,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM2MzMwMiwxMjkxMDEzNjkyLDE2Mj
-czODE0NzQsMTkxODkwNzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2
-NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNC
-wtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEz
-NjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOT
-QsLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0
-NDYzNzc0N119
+eyJoaXN0b3J5IjpbLTE5MjUzNjEyMDQsMTI5MTAxMzY5MiwxNj
+I3MzgxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3
+NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4Mz
+QsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0x
+MzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mz
+k0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1
+NDQ2Mzc3NDddfQ==
 -->
