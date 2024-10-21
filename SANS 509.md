@@ -157,6 +157,9 @@
 |1-134 -136| Graph API Crowdstrike CRT Tool|
 |3-58-59| Guard Duty|
 |3-114, 3-125-127| Glue|
+|4-45| Google Global Footprint|
+|4-46| Google Shared Responsibilities|
+|4-4
 
 
 ## H
@@ -228,7 +231,7 @@
 |4-37| Kubernetes Attack Chain|
 |4-39| Kubernetes Attack Study|
 |4-40| Kubernetes Snapshot Analysis|
-|
+|4-41| Kubernetes Sidecar Containers and Pods|
 
 ## M
 
@@ -329,6 +332,9 @@
 |3-120|S3 Logging|
 |3-136| Security Incident Response Guide|
 |3-141| Step Functions|
+|4-41| Sidecar|
+
+
 ## T
 
 | Column 1 | Column 2 |
@@ -405,7 +411,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyMDIzMCwtNjE2OTUzNDg3LC0xMz
+eyJoaXN0b3J5IjpbMTIxOTc3NzM3NCwtNjE2OTUzNDg3LC0xMz
 U1Mjc2NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgy
 NDgzNCwtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MD
 ksLTEzNjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4
