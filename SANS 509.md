@@ -194,8 +194,9 @@
 |4-119-120| GWS Email Retention|
 |4-121| GWS Vault for Gmail|
 |4-122|  GWS Vault Creating Matter|
-
-
+|4-123 -128| Gmail Vault Search|
+|4-129-131| Gmail Vault Export|
+|4-132| Gmail Vault Export Formats|
 
 ## H
 
@@ -280,7 +281,7 @@
 |2-4|Management groups|
 |3-153| Margarita Shotgun|
 |3-154| Memory Collection Windows|
-|4-122| M
+|4-122| Matter|
 
 ## N
 
@@ -449,11 +450,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgyNjIzODIsMTI5MTAxMzY5MiwxNj
-I3MzgxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3
-NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4Mz
-QsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0x
-MzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mz
-k0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1
-NDQ2Mzc3NDddfQ==
+eyJoaXN0b3J5IjpbMTUyNTczNTg4NywxMjkxMDEzNjkyLDE2Mj
+czODE0NzQsMTkxODkwNzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2
+NTA1LC0xNDM4MzI5NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNC
+wtMTIxODk0Mzc0MSw0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEz
+NjkyMTQ0OTksMjYxNDUyMTMzLDExNTAyNDYwODksMTk4MjkzOT
+QsLTE3MTc2NTA0NjIsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0
+NDYzNzc0N119
 -->
