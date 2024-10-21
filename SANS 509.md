@@ -206,9 +206,11 @@
 |4-132-133| Gmail Vault Export Formats|
 |4-135| Gmail APT Attack Notifications|
 |4-136| GWS Workspace Detection and Automated Alerts|
-|4-162| Google Drive Investigati
-
-
+|4-162| Google Drive Investigation Tools|
+|4-164| Google Drive Alternate File Recover|
+|4-165-170| Google Drive Audit Log|
+|4-171-172| Google Drive Audit Log GSheet Export|
+|4-173| Google Drive Audit
 ## H
 
 | Column 1 | Column 2 |
@@ -461,11 +463,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0ODg2MTgsMTI5MTAxMzY5MiwxNjI3Mz
-gxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3NjUw
-NSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLT
-EyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5
-MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mzk0LC
-0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1NDQ2
-Mzc3NDddfQ==
+eyJoaXN0b3J5IjpbLTExOTcxNzM3NjAsMTI5MTAxMzY5MiwxNj
+I3MzgxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3
+NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4Mz
+QsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0x
+MzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mz
+k0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1
+NDQ2Mzc3NDddfQ==
 -->
