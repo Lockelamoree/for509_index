@@ -186,7 +186,8 @@
 |4-149| GWS Oauth|
 |4-150-152| GWS Third Party Abuse|
 |4-153-154| GWS Oauth Log Events|
-|4-155| GWS Oauth Audit Activity Events via AO
+|4-155-156| GWS Oauth Audit Activity Events via API|
+|4-157-158| GWS Revoking Oauth Tokens|
 |4-101| GWS MITRE ATT&CK |
 |4-103| GWS Common Attacks|
 |4-104| GWS Threats in GWS|
@@ -205,6 +206,7 @@
 |4-132-133| Gmail Vault Export Formats|
 |4-135| Gmail APT Attack Notifications|
 |4-136| GWS Workspace Detection and Automated Alerts|
+|4-162| Google Drive Investigati
 
 
 ## H
@@ -459,7 +461,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzNjc4MTEsMTI5MTAxMzY5MiwxNjI3Mz
+eyJoaXN0b3J5IjpbNjQ0ODg2MTgsMTI5MTAxMzY5MiwxNjI3Mz
 gxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3NjUw
 NSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLT
 EyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5
