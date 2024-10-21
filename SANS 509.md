@@ -191,6 +191,9 @@
 |4-115| Gmail Quarantine|
 |4-116| Gmail Log Events Search|
 |4-117| Gmail Advanced Phishing & Malware|
+|4-119-120| GWS Email Retention|
+|4-121| GWS Vault for Gmail|
+|4-122|  GWS Vault Creating Matter|
 
 
 
@@ -277,6 +280,7 @@
 |2-4|Management groups|
 |3-153| Margarita Shotgun|
 |3-154| Memory Collection Windows|
+|4-122| M
 
 ## N
 
@@ -401,6 +405,8 @@
 |3-91-92| Virtual Private Cloud|
 |3-93| VPC Subnets|
 |3-99-101|VPC Flowlogs|
+|4-122 | Vault|
+
 
 ## W
 
@@ -443,11 +449,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5Nzc4MTY4LDEyOTEwMTM2OTIsMTYyNz
-M4MTQ3NCwxOTE4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1
-MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC
-0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2
-OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NC
-wtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0
-NjM3NzQ3XX0=
+eyJoaXN0b3J5IjpbLTEzNjgyNjIzODIsMTI5MTAxMzY5MiwxNj
+I3MzgxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3
+NjUwNSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4Mz
+QsLTEyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0x
+MzY5MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mz
+k0LC0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1
+NDQ2Mzc3NDddfQ==
 -->
