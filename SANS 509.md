@@ -175,12 +175,15 @@
 |4-77| Google Workspace Admin Logs and SDK|
 |4-79| Google Workspace Collecting Logs Reports API vs. Workspace Admin|
 |4-80, 4-140| Google Workspace Admin Audit Logs|
+|4-142-145| GWS User Log Events|
+|4-146-147| GWS User Log Event Types|
 |4-82 -84| Google Cloud Send Logs|
 |4-85 -86| GWS Setting up API Access to Logs|
 |4-87| GWS API Permissions|
 |4-89| GWS Oauth Consent|
 |4-90| GWS OAuth Client ID|
 |4-91| GWS Oauth Client Credentials|
+|4-149|
 |4-101| GWS MITRE ATT&CK |
 |4-103| GWS Common Attacks|
 |4-104| GWS Threats in GWS|
@@ -453,11 +456,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NjY1MDMxLDEyOTEwMTM2OTIsMTYyNz
-M4MTQ3NCwxOTE4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1
-MDUsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC
-0xMjE4OTQzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2
-OTIxNDQ5OSwyNjE0NTIxMzMsMTE1MDI0NjA4OSwxOTgyOTM5NC
-wtMTcxNzY1MDQ2MiwtMTIwMzM2OTc2OSwzOTMzMzAzNDEsNTQ0
-NjM3NzQ3XX0=
+eyJoaXN0b3J5IjpbMTAxOTg4MzAsMTI5MTAxMzY5MiwxNjI3Mz
+gxNDc0LDE5MTg5MDc4MjYsLTYxNjk1MzQ4NywtMTM1NTI3NjUw
+NSwtMTQzODMyOTcxMiwxNTI3MzYyNTg0LC02NzU4MjQ4MzQsLT
+EyMTg5NDM3NDEsNDI0NjU4NzgyLC0xNzA5MDgyOTA5LC0xMzY5
+MjE0NDk5LDI2MTQ1MjEzMywxMTUwMjQ2MDg5LDE5ODI5Mzk0LC
+0xNzE3NjUwNDYyLC0xMjAzMzY5NzY5LDM5MzMzMDM0MSw1NDQ2
+Mzc3NDddfQ==
 -->
