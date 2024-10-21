@@ -168,6 +168,10 @@
 |4-67 -68| Google Workspace Group Overview|
 |4-69| Google Workspace Groups Permission Model|
 |4-70-71| Google Workspace Groups - Inspecting Groups|
+|4-75| Google Workspace Logs: Retention & Lag|
+|4-76| Google Workspace Log Types|
+|4-77| Google Workspace Admin Logs and SDK|
+|4-78| Google Workspace Collecting Logs Reports
 
 
 ## H
@@ -419,11 +423,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzM4MTQ3NCwxOTE4OTA3ODI2LC02MT
-Y5NTM0ODcsLTEzNTUyNzY1MDUsLTE0MzgzMjk3MTIsMTUyNzM2
-MjU4NCwtNjc1ODI0ODM0LC0xMjE4OTQzNzQxLDQyNDY1ODc4Mi
-wtMTcwOTA4MjkwOSwtMTM2OTIxNDQ5OSwyNjE0NTIxMzMsMTE1
-MDI0NjA4OSwxOTgyOTM5NCwtMTcxNzY1MDQ2MiwtMTIwMzM2OT
-c2OSwzOTMzMzAzNDEsNTQ0NjM3NzQ3LC03ODQ5NDI5MzEsLTEx
-MDE2MDA2MjNdfQ==
+eyJoaXN0b3J5IjpbLTk0NTg3OTAzLDE2MjczODE0NzQsMTkxOD
+kwNzgyNiwtNjE2OTUzNDg3LC0xMzU1Mjc2NTA1LC0xNDM4MzI5
+NzEyLDE1MjczNjI1ODQsLTY3NTgyNDgzNCwtMTIxODk0Mzc0MS
+w0MjQ2NTg3ODIsLTE3MDkwODI5MDksLTEzNjkyMTQ0OTksMjYx
+NDUyMTMzLDExNTAyNDYwODksMTk4MjkzOTQsLTE3MTc2NTA0Nj
+IsLTEyMDMzNjk3NjksMzkzMzMwMzQxLDU0NDYzNzc0NywtNzg0
+OTQyOTMxXX0=
 -->
