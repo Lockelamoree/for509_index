@@ -47,7 +47,7 @@
 |3-151| AWS Systems Manager Commands to hunt for|
 |3-152| AWS SSM Logs|
 |3-153| AVML and AWS Systems Manager|
-|4-82| Audit Logs Google Cloud|
+|4-82-83| Audit Logs Google Cloud|
 
 
 ## B
@@ -174,7 +174,9 @@
 |4-77| Google Workspace Admin Logs and SDK|
 |4-79| Google Workspace Collecting Logs Reports API vs. Workspace Admin|
 |4-80| Google Workspace Admin Audit Logs|
-|4-82| Google Cloud Send Logs|
+|4-82 -84| Google Cloud Send Logs|
+|4-85 -86| GWS Setting up API Access to Logs|
+|4-87| GWS API Permissions|
 
 
 
@@ -427,7 +429,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY1ODU1NTAsMTYyNzM4MTQ3NCwxOT
+eyJoaXN0b3J5IjpbLTE3NDA4ODgxNTUsMTYyNzM4MTQ3NCwxOT
 E4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1MDUsLTE0Mzgz
 Mjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMjE4OTQzNz
 QxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIxNDQ5OSwy
