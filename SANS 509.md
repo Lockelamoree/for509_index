@@ -243,7 +243,7 @@
 |5-84| Google Cloud Virtual Machine Types|
 |5-86| GCP Virtual Machine Attacks|
 |5-87-93| GCP DFIR Snapshot and EXPORT Snapshot|
-|5-94| GCP Snapshot Logs|
+|5-94, 95| GCP Snapshot Logs|
 
 
 ## H
@@ -348,7 +348,7 @@
 | 1-57   | Operation    |
 | 1-80 -84   | Outlook Bind & Sync Event    |
 | 1-85   | OWA Bind Event    |
-| Row 4    | Row 4    |
+| 5-95    | Ops Agent    |
 | Row 5    | Row 5    |
 
 ## P
@@ -498,11 +498,11 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTI4NzEwMCwtMTY1OTEyMzI0OSwyMD
-YzMDk2NDM4LC0yNDI3NTI1ODQsLTEwMjE2MDQ5OTMsLTE5MjUz
-NjEyMDQsMTI5MTAxMzY5MiwxNjI3MzgxNDc0LDE5MTg5MDc4Mj
-YsLTYxNjk1MzQ4NywtMTM1NTI3NjUwNSwtMTQzODMyOTcxMiwx
-NTI3MzYyNTg0LC02NzU4MjQ4MzQsLTEyMTg5NDM3NDEsNDI0Nj
-U4NzgyLC0xNzA5MDgyOTA5LC0xMzY5MjE0NDk5LDI2MTQ1MjEz
-MywxMTUwMjQ2MDg5XX0=
+eyJoaXN0b3J5IjpbLTY5MDI0MDQzLDE3MTUyODcxMDAsLTE2NT
+kxMjMyNDksMjA2MzA5NjQzOCwtMjQyNzUyNTg0LC0xMDIxNjA0
+OTkzLC0xOTI1MzYxMjA0LDEyOTEwMTM2OTIsMTYyNzM4MTQ3NC
+wxOTE4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1MDUsLTE0
+MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0xMjE4OT
+QzNzQxLDQyNDY1ODc4MiwtMTcwOTA4MjkwOSwtMTM2OTIxNDQ5
+OSwyNjE0NTIxMzNdfQ==
 -->
