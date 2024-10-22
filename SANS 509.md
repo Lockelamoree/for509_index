@@ -241,6 +241,7 @@
 |5-73 -77| gcp logs outside of gcp|
 |5-82-83| Google Cloud Compute Overview|
 |5-84| Google Cloud Virtual Machine Types|
+|5-86| GCP Virtual Machine Attacks|
 
 
 
@@ -496,7 +497,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODQwNTc3NywtMjQyNzUyNTg0LC0xMD
+eyJoaXN0b3J5IjpbMjA2MzA5NjQzOCwtMjQyNzUyNTg0LC0xMD
 IxNjA0OTkzLC0xOTI1MzYxMjA0LDEyOTEwMTM2OTIsMTYyNzM4
 MTQ3NCwxOTE4OTA3ODI2LC02MTY5NTM0ODcsLTEzNTUyNzY1MD
 UsLTE0MzgzMjk3MTIsMTUyNzM2MjU4NCwtNjc1ODI0ODM0LC0x
