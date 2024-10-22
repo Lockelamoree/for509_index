@@ -243,7 +243,7 @@
 |5-84| Google Cloud Virtual Machine Types|
 |5-86| GCP Virtual Machine Attacks|
 |5-87-93| GCP DFIR Snapshot and EXPORT Snapshot|
-|5-94| GCP Virtual Machine Logs|
+|5-94| GCP Snapshot Logs|
 
 
 ## H
@@ -498,7 +498,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTA4MjU1MiwtMTY1OTEyMzI0OSwyMD
+eyJoaXN0b3J5IjpbMTcxNTI4NzEwMCwtMTY1OTEyMzI0OSwyMD
 YzMDk2NDM4LC0yNDI3NTI1ODQsLTEwMjE2MDQ5OTMsLTE5MjUz
 NjEyMDQsMTI5MTAxMzY5MiwxNjI3MzgxNDc0LDE5MTg5MDc4Mj
 YsLTYxNjk1MzQ4NywtMTM1NTI3NjUwNSwtMTQzODMyOTcxMiwx
