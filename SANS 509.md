@@ -255,7 +255,7 @@
 |5-128| GCP Network DFIR|
 |5-129-131|GCP VPC|
 |5-132-133| GCP Flow Logs Configuration|
-|5.
+|5-134|  VPC Firewall Rules|
 
 
 ## H
@@ -510,7 +510,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDA0OTA4OCw1MjE4MTY4NjksNjQyNT
+eyJoaXN0b3J5IjpbMTMyMTI2NzA0Nyw1MjE4MTY4NjksNjQyNT
 EwMDk2LDUzMTkzOTE4Myw1ODM3NDY5NzksLTIxMTM5NjQ1MzAs
 LTY5MDI0MDQzLDE3MTUyODcxMDAsLTE2NTkxMjMyNDksMjA2Mz
 A5NjQzOCwtMjQyNzUyNTg0LC0xMDIxNjA0OTkzLC0xOTI1MzYx
