@@ -247,7 +247,8 @@
 |5-107|GCP Storage Overview|
 |5-108| GCP Storage Classes|
 |5-109-111| GCP Buckets|
-
+|5-112| GCP Buckets Permission|
+|5-113| GCP Buckets Attacks|
 
 
 ## H
@@ -502,7 +503,7 @@
 | Row 5    | Row 5    |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0OTYxODkwLDY0MjUxMDA5Niw1MzE5Mz
+eyJoaXN0b3J5IjpbOTQ3MjgyNzA1LDY0MjUxMDA5Niw1MzE5Mz
 kxODMsNTgzNzQ2OTc5LC0yMTEzOTY0NTMwLC02OTAyNDA0Mywx
 NzE1Mjg3MTAwLC0xNjU5MTIzMjQ5LDIwNjMwOTY0MzgsLTI0Mj
 c1MjU4NCwtMTAyMTYwNDk5MywtMTkyNTM2MTIwNCwxMjkxMDEz
